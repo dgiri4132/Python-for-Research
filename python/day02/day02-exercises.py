@@ -29,4 +29,7 @@ foods=('rice', 'chicken','salad','barbeque','momo')
 
 for food in foods:
     print(food)
-foods[0]='chowmein'
+
+foods=('rice', 'chicken','lasagna','sukuti','momo')
+
+
