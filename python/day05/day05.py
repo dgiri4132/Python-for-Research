@@ -63,4 +63,30 @@ while unconfirmed_users:
     del unconfirmed_users[0]
 
 
+#Removing all Instances of Specific Values from a list
 
+pets = ['dog', 'cat', 'dog', 'goldfish', 'cat', 'rabbit', 'cat']
+
+while 'cat' in pets:
+    pets.remove('cat')
+
+print(pets)
+
+# Filling a dictionary with user Input
+
+responses={}
+
+polling_active=True
+while polling_active:
+    name=input('\nWhat is your name ?')
+    response= input('\n Which mountain would you like to climb ?')
+
+    responses[name]=response
+
+    repeat=input("Would you like to let another person respond ?(yes/no)")
+    if repeat == 'no':
+        polling_active=False
+
+for name, response in responses.items():
+    print(name + " would like to climb "+response+".")
+    

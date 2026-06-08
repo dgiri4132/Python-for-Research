@@ -24,5 +24,30 @@ while True:
         print(message)
 
 #7-5
-prompt=" Please tell you age: "
+prompt=input(int(" Please tell you age: "))
+
+if prompt<3:
+    print("The ticket is free")
+elif prompt>3 and prompt<12:
+    print("The ticket is $10")
+else:
+    print('The ticket is $15')
+
+
+#7-8
+sandwich_orders=['tune sandwich','chicken sandwich','pork sandwich','ranch sandwich']
+
+finished_sandwich=[]
+
+while sandwich_orders:
+    recently_finished= sandwich_orders.pop(1)
+
+    print('I namde your '+recently_finished)
+
+    finished_sandwich.append(recently_finished)
+
+print("------- Sandwich List-------\n")
+for sandwich in finished_sandwich:
+    print(sandwich+'\n')
+
 
