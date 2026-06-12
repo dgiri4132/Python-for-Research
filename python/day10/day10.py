@@ -31,3 +31,10 @@ favorite_languages['phil']='python'
 
 for name, language in favorite_languages.items():
     print(name.title() + " 's favorite language is " + language.title() + ".")
+
+""" Styling Classes
+    Class names should be written in CamelCaps. Instance and module names should be written
+    in lowercase with underscores between words.
+    Using docstring like these itself helps the user to know what is being done here"""
+
+
