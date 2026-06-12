@@ -22,26 +22,17 @@ class Car():
     def increment_odometer(self, miles):
         self.odometer_reading+=miles
         
-
-my_new_car=Car('audi', 'a4', 2016)
-my_new_car.get_descriptive_name()
-my_new_car.read_odometer()
-my_new_car.odometer_reading=2300
-my_new_car.read_odometer()
-my_new_car.update_odometer(37)
-my_new_car.read_odometer()
-my_new_car.increment_odometer(100)
-
+"""
 
 #Inheritance
-""" If you are writing a class which is a specialized version of another class you wrote, you can use 
-    inheritance. It takes on all attributes of the first class hence forming parent and child class."""
+ If you are writing a class which is a specialized version of another class you wrote, you can use 
+    inheritance. It takes on all attributes of the first class hence forming parent and child class.
 
 
 
 #Continued from my_tesla.describe_battery()
 
-""" As you start writing codes, you'll have more and more classes and stuff like that i.e.
+ As you start writing codes, you'll have more and more classes and stuff like that i.e.
 it will become more complex, that is why we can call instances as attributes
 see from the example below"""
 
@@ -65,6 +56,3 @@ class ElectricCar(Car):
 
     # Overriding Methods from the parent class
     # To override the methods from parent class, you have can define the same function and write something 
-my_tesla=ElectricCar('tesla', 'model s', 2016)
-my_tesla.get_descriptive_name()
-my_tesla.describe_battery()
