@@ -1,0 +1,4 @@
+I have learned many things.
+if statements, for loops and while loops are some of them.
+I have also learned how to use classes and OOP in general.
+I am currently learning file handling and exception in python

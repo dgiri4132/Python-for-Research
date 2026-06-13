@@ -31,4 +31,11 @@ else:
 with open('python/day11/experiment.txt','w') as experiment:
     experiment.write("I love programming.\n")
     experiment.write('I love creating new games.\n')
-    
+
+with open('python/day11/experiment.txt','a') as experiments:
+    experiments.write("I also love finding meaning in large datasets\n")
+    experiments.write('I love creating apps that can run in a browser.\n')
+
+#Exceptions
+""" Exceptions are used to manage errors that arise during a program's execution."""
+ 
