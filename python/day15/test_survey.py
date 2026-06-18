@@ -23,4 +23,6 @@ class TestAnonymousSurvey(unittest.TestCase):
 unittest.main()
 
 """There is a method called setUp() in unittest.TestCase which allows you to create the objects
-once and then use them in each of the test methods. The chages will ba made you to above as well."""
+once and then use them in each of the test methods. The chages will ba made you to above as well.
+The serUp() does two things over here, it creates a survey instance and it also
+creates a list of reponses. Each of these is prefixed by self so that they can be used anywhere in the class."""
