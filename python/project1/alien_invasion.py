@@ -1,12 +1,14 @@
 import sys
 import pygame
 
+from settings import Settings
 def run_game():
     #Initialize game and create a screen object
     pygame.init()
     screen = pygame.display.set_mode((1200, 800))
     pygame.display.set_caption("Alien Invasion")
-
+    ai_settings = Settings()
+    screen = pygame.display.set_mode((ai_settings.screen_width, ai_settings.screen_height))
     bg_color=(230,230,230)
     #Start the main loop for the game.
 
@@ -17,6 +19,9 @@ def run_game():
             if event.type == pygame.QUIT:
                 sys.exit()
         
+        #Redraw the screen during each pass through the loop.
+        screen.fill(ai_settings.bg_color)
+
         #Make the most recetnly drawn screen visible.
         pygame.display.flip()
 
@@ -33,7 +38,10 @@ write a series of if  statements to detect and respond to specific events.
 
 """  
         screen.fill(bg_color)
-        
+
 
 run_game()
+
+""" We import settings file and use its functions, like using screen_width and screen_height attributes
+of ai_settings, also when we used the background color as well."""
 
