@@ -1,7 +1,8 @@
 import sys
 import pygame
-im
+import game_functions as gf
 from settings import Settings
+import ship
 def run_game():
     #Initialize game and create a screen object
     pygame.init()
@@ -13,18 +14,10 @@ def run_game():
     #Start the main loop for the game.
 
     while True:
-
-        #Watch for keyboard and mouse events.
-        for event in pygame.event.get():
-            if event.type == pygame.QUIT:
-                sys.exit()
         
-        #Redraw the screen during each pass through the loop.
-        screen.fill(ai_settings.bg_color)
-
-        #Make the most recetnly drawn screen visible.
-        pygame.display.flip()
-
+        gf.check_events(ship)
+        ship.update()
+        gf.update_screen(ai_settings, screen, ship)
         """
 We start by importing the two libraries that we need right.
 The sys module is for when we want to quit just to confirm
@@ -45,3 +38,18 @@ run_game()
 """ We import settings file and use its functions, like using screen_width and screen_height attributes
 of ai_settings, also when we used the background color as well."""
 
+"""
+This is the try-it-yourself part of the chapter
+
+import pygame
+import sys
+
+def rungame():
+    pygame.init()
+    screen = pygame.display.set_mode((1200,800))
+    pygame..display.set_caption("Blue Background: Try it yourself")
+    bg_color=(0,230,0)
+    
+    while True:
+        screen.fill(bg_color)
+"""

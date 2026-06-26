@@ -13,8 +13,19 @@ class Ship():
         self.image=pygame.game.load('ship.bmp')
         self.rect=self.image.get_rect()
         self.screen_rect= screen.get_rect()
-        self.rect.centerx= self.screen_rect.centrex
+        self.rect.centerx= self.screen_rect.centerx
         self.rect.bottom = self.screen_rect.bottom
+        
+        self.moving_right=False
+        self.moving_left=False
+    """Now we need to know when the ship is in motion and when motionless,
+    we will start by setting moving_right to False and then when the key is pressed
+    it turns to true and again turning to false when key is relieved."""
+    def update(self):
+        if self.moving_right:
+            self.rect.centerx+=1
+        if self.moving_left:
+            self.rect.centerx-=1
 
     def blitme(self):
         self.screen.blit(self.image, self.rect)

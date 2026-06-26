@@ -13,3 +13,39 @@ def check_events():
 
 """This module imports sys and pygame. After that it is used in many game instances as needed, no need
 to write it every time"""
+
+"""Now, we move the code for updating the screen to a function update_screen() to simplify run_game()"""
+
+def update_screen(ai_settings, screen, ship):
+    """Update images on the screen and flip to the new screen"""
+    screen.fill(ai_settings.bg_color)
+    ship.blitme()
+
+    # Make the most recently drawn screen visible.
+    pygame.display.flip()
+
+""" Now we're gonna start on dealing with keypresses.
+    So every time a key is pressed, it goes as an event in the pygame and
+    is picked up by pygame.event.get(). 
+    Each keypress is registered as a KEYDOWN event. I thought we needed if clauses for which key pressed and
+    that seems to be right as well. Also we need to assign what we need to given that the certain key is pressed as well"""
+
+def check_events(ship):
+    """Respond to keypresses and mouse events."""
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            sys.exit()
+
+        elif event.type == pygame.KEYDOWN:
+            if event.key==pygame.K_RIGHT:
+                #Move the ship to the right.
+                ship.moving_right=True
+            elif event.key == pygame.K_LEFT:
+                ship.moving_left=True
+        
+        elif event.type == pygame.KEYUP:
+            if event.key == pygame.K_RIGHT:
+                ship.moving_right = False
+            
+            elif event.key == pygame.K_LEFT:
+                ship.moving_left = False
