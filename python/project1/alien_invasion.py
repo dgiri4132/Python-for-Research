@@ -2,7 +2,7 @@ import sys
 import pygame
 import game_functions as gf
 from settings import Settings
-import ship
+from ship import Ship
 def run_game():
     #Initialize game and create a screen object
     pygame.init()
@@ -14,7 +14,7 @@ def run_game():
 
     # Make a ship
 
-    ship = ship(ai_settings, screen)
+    ship = Ship(ai_settings, screen)
     #Start the main loop for the game.
 
     while True:
@@ -34,7 +34,6 @@ detected by Pygame, we'll use the pygame.event.get() method. Here we will
 write a series of if  statements to detect and respond to specific events.
 
 """  
-        screen.fill(bg_color)
 
 
 run_game()

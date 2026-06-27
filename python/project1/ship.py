@@ -10,7 +10,7 @@ class Ship():
         """Initializing the ship and setting its starting position."""
         self.screen=screen
         self.ai_settings = ai_settings
-        self.image=pygame.game.load('ship.bmp')
+        self.image=pygame.image.load('ship.bmp')
         self.rect=self.image.get_rect()
         self.screen_rect= screen.get_rect()
         self.rect.centerx= self.screen_rect.centerx
@@ -24,10 +24,10 @@ class Ship():
     we will start by setting moving_right to False and then when the key is pressed
     it turns to true and again turning to false when key is relieved."""
     def update(self):
-        if self.moving_right:
-            self.rect.centerx+=self.ai_settings.ship_speed_factor
-        if self.moving_left:
-            self.rect.centerx-=self.ai_settings.ship_speed_factor
+        if self.moving_right and self.rect.right < self.screen_rect.right:
+            self.center+=self.ai_settings.ship_speed_factor
+        if self.moving_left and self.rect.left > 0:
+            self.center-=self.ai_settings.ship_speed_factor
         
         self.rect.centerx = self.center
 
