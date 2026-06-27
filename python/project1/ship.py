@@ -25,9 +25,11 @@ class Ship():
     it turns to true and again turning to false when key is relieved."""
     def update(self):
         if self.moving_right:
-            self.rect.centerx+=1
+            self.rect.centerx+=self.ai_settings.ship_speed_factor
         if self.moving_left:
-            self.rect.centerx-=1
+            self.rect.centerx-=self.ai_settings.ship_speed_factor
+        
+        self.rect.centerx = self.center
 
     def blitme(self):
         self.screen.blit(self.image, self.rect)
@@ -35,3 +37,8 @@ class Ship():
 """ So the self.image returns a surface representing the ship. The second thing does the work of making it a rectangle.
 The next two attributes help to make the starting point of the ship and the final method draws the image to the 
 screen at the position specifed by self.react"""
+
+"""We firstly add self.center to be decimal or float so that the 1.5 is actually working.
+Then, we add parameter ai_settings, which is actually settings and also aim to update the right and left
+to the ship by the shipp factor rather than per pixel, I think it is more maneagable as well because we can access it in 
+settings as well and also feels more professional"""

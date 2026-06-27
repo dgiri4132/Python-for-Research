@@ -11,6 +11,10 @@ def run_game():
     ai_settings = Settings()
     screen = pygame.display.set_mode((ai_settings.screen_width, ai_settings.screen_height))
     bg_color=(230,230,230)
+
+    # Make a ship
+
+    ship = ship(ai_settings, screen)
     #Start the main loop for the game.
 
     while True:
