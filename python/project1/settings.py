@@ -7,3 +7,6 @@ class Settings():
         self.screen_height = 800
         self.bg_color = (230,230,230)
         
+        #Ship settings
+        """Below we will be changing the pixel speed so that the ship can travel faster"""
+        self.ship_speed_factor = 1.5
