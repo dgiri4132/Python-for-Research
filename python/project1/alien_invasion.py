@@ -1,5 +1,6 @@
 import sys
 import pygame
+from pygame.sprite import Group
 import game_functions as gf
 from settings import Settings
 from ship import Ship
@@ -16,12 +17,13 @@ def run_game():
 
     ship = Ship(ai_settings, screen)
     #Start the main loop for the game.
-
+    bullets = Group()
     while True:
         
-        gf.check_events(ship)
+        gf.check_events(ai_settings, screen, ship, bullets)
         ship.update()
-        gf.update_screen(ai_settings, screen, ship)
+        bullets.update()
+        gf.update_screen(ai_settings, screen, ship, bullets)
         """
 We start by importing the two libraries that we need right.
 The sys module is for when we want to quit just to confirm
@@ -33,6 +35,7 @@ and also perform activities accordingly as well. To access the events
 detected by Pygame, we'll use the pygame.event.get() method. Here we will
 write a series of if  statements to detect and respond to specific events.
 
+we added the bullets update thing and another argument as bullets in the checkevents as well
 """  
 
 
