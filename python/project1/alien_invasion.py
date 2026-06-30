@@ -22,7 +22,7 @@ def run_game():
         
         gf.check_events(ai_settings, screen, ship, bullets)
         ship.update()
-        bullets.update()
+        gf.update_bullets(bullets)
         gf.update_screen(ai_settings, screen, ship, bullets)
         """
 We start by importing the two libraries that we need right.
@@ -36,7 +36,9 @@ detected by Pygame, we'll use the pygame.event.get() method. Here we will
 write a series of if  statements to detect and respond to specific events.
 
 we added the bullets update thing and another argument as bullets in the checkevents as well
-"""  
+we also copied the bullets as a whole, because you shouldn't use the real thing to check
+and then remoed if it reaches the top .
+    """
 
 
 run_game()
