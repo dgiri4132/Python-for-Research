@@ -7,10 +7,10 @@ class Bullet(Sprite):
         self.screen = screen
 
         self.rect = pygame.Rect(0 ,0, ai_settings.bullet_width,
-                                ai_settings.bullet_height)
-        self.rect.centerx = ship.rect.centerx
-        self.rect.top = ship.rect.top
-        
+                                ai_settings.bullet_length)
+        self.rect.left = ship.rect.right
+        self.rect.centery = ship.rect.centery
+
         self.x = float(self.rect.x)
 
         self.color = ai_settings.bullet_color
