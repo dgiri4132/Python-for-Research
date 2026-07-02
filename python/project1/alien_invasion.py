@@ -4,6 +4,7 @@ from pygame.sprite import Group
 import game_functions as gf
 from settings import Settings
 from ship import Ship
+from alien import Alien
 def run_game():
     #Initialize game and create a screen object
     pygame.init()
@@ -11,19 +12,20 @@ def run_game():
     pygame.display.set_caption("Alien Invasion")
     ai_settings = Settings()
     screen = pygame.display.set_mode((ai_settings.screen_width, ai_settings.screen_height))
-    bg_color=(230,230,230)
-
+    
     # Make a ship
 
     ship = Ship(ai_settings, screen)
     #Start the main loop for the game.
     bullets = Group()
+
+    alien = Alien(ai_settings, screen)
     while True:
         
         gf.check_events(ai_settings, screen, ship, bullets)
         ship.update()
         gf.update_bullets(bullets)
-        gf.update_screen(ai_settings, screen, ship, bullets)
+        gf.update_screen(ai_settings, screen, ship,alien, bullets)
         """
 We start by importing the two libraries that we need right.
 The sys module is for when we want to quit just to confirm

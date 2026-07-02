@@ -5,6 +5,7 @@ class Ship():
         self.screen = screen
         self.ai_setting = ai_setting
         self.image = pygame.image.load('ship.bmp')
+        self.image = pygame.transform.rotate(self.image, -90)
         self.rect = self.image.get_rect()
         self.screen_rect = screen.get_rect()
         self.rect.centerx = self.screen_rect.centerx
