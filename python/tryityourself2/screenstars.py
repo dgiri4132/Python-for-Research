@@ -3,6 +3,7 @@ import pygame
 import sys
 from pygame.sprite import Group
 from settings import Settings
+from random import randint
 
 def get_numberof_rows(ai_settings, star_height):
     available_space_y = (ai_settings.screen_height)
@@ -29,7 +30,7 @@ def create_stars(ai_settings, screen, stars):
     number_of_rows = get_numberof_rows(ai_settings, star.rect.height)
     for row in range(number_of_rows):
         for star_number in range(number_of_stars):
-            makingstars(ai_settings,screen, stars, star_number, row)
+            makingstars(ai_settings,screen, stars, star_number +randint(-1,1), row+ randint(-1,1))
 
 
 def run_game():
