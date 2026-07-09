@@ -5,7 +5,7 @@ import sys
 from pygame.sprite import Group
 
 def get_number_rows(ai_settings, rain_height):
-    available_space_y = ai_settings.screen_height - (4* rain_height)
+    available_space_y = ai_settings.screen_height 
     number_rows = int(available_space_y/rain_height)
     return number_rows
 
@@ -33,9 +33,16 @@ def create_raindrops(ai_settings, screen,rains):
             make_rain_drops(ai_settings, screen, rains, rain_number, row_number)
  
 
-def moving_down(ai_settings, rains):
+def adding_rains(ai_settings, screen, rains, ):
+    rain = Rain(ai_settings, screen)
+    number_of_rows = get_number_rows(ai_settings, rain.rect.height)
+    for row in range(number_of_rows):
+        make_rain_drops(ai_settings, screen, rains, row,0)
+
+def moving_down(ai_settings,screen, rains):
     for rain in rains.sprites():
         rain.rect.y+=ai_settings.rain_drop_speed
+    adding_rains(ai_settings, screen, rains)
 
 def run_game():
     pygame.init()
@@ -44,12 +51,13 @@ def run_game():
     pygame.display.set_caption("RainDrops Moving down")
 
     rains = Group()
-    create_raindrops(ai_settings, screen, rains)
+
     while True:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 sys.exit()
-        moving_down(ai_settings, rains)
+        create_raindrops(ai_settings, screen, rains)
+        moving_down(ai_settings, screen,rains)
         screen.fill(ai_settings.bg_color)
         rains.draw(screen)
         pygame.display.flip()
