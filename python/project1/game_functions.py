@@ -6,6 +6,7 @@ import sys
 import pygame
 from bullet import Bullet
 from alien import Alien
+from time import sleep
 """This module imports sys and pygame. After that it is used in many game instances as needed, no need
 to write it every time"""
 
@@ -27,7 +28,13 @@ def update_screen(ai_settings, screen, ship, aliens,bullets):
     Each keypress is registered as a KEYDOWN event. I thought we needed if clauses for which key pressed and
     that seems to be right as well. Also we need to assign what we need to given that the certain key is pressed as well"""
 
-
+def ship_hit(ai_settings, stats, screen, ship, aliens, bullets):
+    stats.ship_left-=1
+    aliens.empty()
+    bullets.empty()
+    create_fleet(ai_settings, screen, ship, aliens)
+    ship.center_ship()
+    sleep(0.5)
 """The check events function will grow as the project grows so it is better if we separate them for key up and down as well"""
 def fire_bullet(ai_settings, screen, ship, bullets):
     """Fire a bullet if limit not reached yet."""
@@ -67,11 +74,18 @@ def check_events(ai_settings, screen, ship, bullets):
             check_keyup_events(event, ship)
 
 
-def update_bullets(bullets):
+def check_bullet_alien_collisions(ai_settings, screen, ship, aliens, bullets):
+   collisions = pygame.sprite.groupcollide(bullets, aliens, True, True)
+   if len(aliens)==0:
+        bullets.empty()
+        create_fleet(ai_settings, screen, ship, aliens)
+    
+def update_bullets(ai_settings, screen, ship, aliens,bullets):
     bullets.update()
     for bullet in bullets.copy():
         if bullet.rect.bottom<=0:
             bullets.remove(bullet)
+    check_bullet_alien_collisions(ai_settings, screen, ship, aliens, bullets)
 """ The latest updates:
     The group bullets is passed to check_keydown_events(). When the player presses the spacebar,
     we create a new bullet and adds it to the group as well. we also add it to the checkdown events as well
@@ -114,6 +128,10 @@ def check_fleet_edges(ai_settings, aliens):
             change_fleet_direction(ai_settings, aliens)
             break
 
-def update_aliens(ai_settings, aliens):
+def update_aliens(ai_settings, stats, screen, ship, aliens, bullets):
     check_fleet_edges(ai_settings, aliens)
     aliens.update()
+
+    if pygame.sprite.spritecollideany(ship, aliens):
+        ship_hit(ai_settings, stats, screen, ship, aliens, bullets)
+

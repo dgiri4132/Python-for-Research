@@ -10,9 +10,9 @@ class Settings():
         #Ship settings
         """Below we will be changing the pixel speed so that the ship can travel faster"""
         self.ship_speed_factor = 1.5
-
+        self.ship_limit = 3
         # Bullet Settings
-        self.bullet_speed_factor = 1
+        self.bullet_speed_factor = 3
         self.bullet_width = 3
         self.bullet_height = 15
         self.bullet_color = 60, 60, 60
