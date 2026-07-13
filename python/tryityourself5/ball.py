@@ -1,7 +1,8 @@
 import pygame
-
-class Ball():
+from pygame.sprite import Sprite
+class Ball(Sprite):
     def __init__(self, ai_settings, screen):
+        super().__init__()
         self.ai_settings = ai_settings
         self.screen = screen
         self.image = pygame.image.load('ball.bmp')
