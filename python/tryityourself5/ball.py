@@ -10,6 +10,8 @@ class Ball(Sprite):
         self.rect.x = self.rect.width
         self.rect.y = self.rect.height
         self.y = float(self.rect.y)
+        self.x = float(self.rect.x)
 
     def update(self):
         self.y +=self.ai_settings.ball_speed_factor
+        self.rect.y = self.y
