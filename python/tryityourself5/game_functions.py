@@ -50,7 +50,5 @@ def pass_through(balls, ai_settings, screen):
         if ball.rect.top> ai_settings.screen_height:
             ball.kill()
             create_ball(ai_settings, screen, balls)
-        
+            return True
 
-
-#Just trying to keep up the streak yo

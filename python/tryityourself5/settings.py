@@ -6,4 +6,4 @@ class Settings():
         self.ball_speed_factor = 2
         self.glove_limit = 3
         self.bg_color = (0,0,0)
-        
+        self.miss_limit = 3
