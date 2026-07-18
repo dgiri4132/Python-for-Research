@@ -12,13 +12,15 @@ to write it every time"""
 
 """Now, we move the code for updating the screen to a function update_screen() to simplify run_game()"""
 
-def update_screen(ai_settings, screen, ship, aliens,bullets):
+def update_screen(ai_settings, screen,stats ,ship , aliens,bullets, play_button):
     """Update images on the screen and flip to the new screen"""
     screen.fill(ai_settings.bg_color)
     for bullet in bullets.sprites():
         bullet.draw_bullet()
     ship.blitme()
     aliens.draw(screen)
+    if not stats.game_active:
+        play_button.draw_button()
     # Make the most recently drawn screen visible.
     pygame.display.flip()
 
@@ -65,11 +67,19 @@ def check_keyup_events(event, ship):
     elif event.key == pygame.K_LEFT:
         ship.moving_left = False
 
-def check_events(ai_settings, screen, ship, bullets):
+def check_play_button(stats, play_button, mouse_x, mouse_y):
+    if play_button.rect.collidepoint(mouse_x, mouse_y):
+        stats.game_active = True
+
+def check_events(ai_settings, screen,stats, play_button, ship, bullets):
     """Respond to keypresses ."""
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             sys.exit()
+
+        elif event.type == pygame.MOUSEBUTTONDOWN:
+            mouse_x, mouse_y = pygame.mouse.get_pos()
+            check_play_button(stats, play_button, mouse_x, mouse_y)
 
         elif event.type == pygame.KEYDOWN:
             check_keydown_events(event,ship, ai_settings, screen, bullets)
