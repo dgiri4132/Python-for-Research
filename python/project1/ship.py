@@ -3,11 +3,13 @@ we will be using bitmap for the image of ship that we will be using.
 
 """
 import pygame
+from pygame.sprite import Sprite
 
-class Ship():
+class Ship(Sprite):
     
     def __init__(self,ai_settings, screen):
         """Initializing the ship and setting its starting position."""
+        super(Ship, self).__init__()
         self.screen=screen
         self.ai_settings = ai_settings
         self.image=pygame.image.load('ship.bmp')
@@ -34,11 +36,11 @@ class Ship():
     def blitme(self):
         self.screen.blit(self.image, self.rect)
 
-""" So the self.image returns a surface representing the ship. The second thing does the work of making it a rectangle.
-The next two attributes help to make the starting point of the ship and the final method draws the image to the 
-screen at the position specifed by self.react"""
+    """ So the self.image returns a surface representing the ship. The second thing does the work of making it a rectangle.
+    The next two attributes help to make the starting point of the ship and the final method draws the image to the 
+    screen at the position specifed by self.react"""
 
-"""We firstly add self.center to be decimal or float so that the 1.5 is actually working.
-Then, we add parameter ai_settings, which is actually settings and also aim to update the right and left
-to the ship by the shipp factor rather than per pixel, I think it is more maneagable as well because we can access it in 
-settings as well and also feels more professional"""
+    """We firstly add self.center to be decimal or float so that the 1.5 is actually working.
+    Then, we add parameter ai_settings, which is actually settings and also aim to update the right and left
+    to the ship by the shipp factor rather than per pixel, I think it is more maneagable as well because we can access it in 
+    settings as well and also feels more professional"""
