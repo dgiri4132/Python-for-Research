@@ -65,7 +65,7 @@ def start_game(ai_settings, screen,sb, stats,ship, aliens, bullets):
         create_fleet(ai_settings, screen, ship, aliens)
         ship.center_ship()
 
-def check_keydown_events(event, ship, ai_settings,screen,stats,aliens, bullets):
+def check_keydown_events(event, ship, ai_settings,screen,sb, stats,aliens, bullets):
     if event.key==pygame.K_RIGHT:
     #Move the ship to the right.
         ship.moving_right=True
@@ -76,7 +76,7 @@ def check_keydown_events(event, ship, ai_settings,screen,stats,aliens, bullets):
     elif event.key == pygame.K_q:
         sys.exit()
     elif event.key == pygame.K_p and not stats.game_active:
-        start_game(ai_settings, screen,stats,ship, aliens, bullets)
+        start_game(ai_settings, screen,sb, stats,ship, aliens, bullets)
 
 def check_keyup_events(event, ship):
     if event.key == pygame.K_RIGHT:
@@ -102,13 +102,13 @@ def check_events(ai_settings, screen,sb, stats, play_button, ship,aliens, bullet
             check_play_button(ai_settings, screen,stats, sb, play_button,ship, aliens, bullets ,mouse_x, mouse_y)
 
         elif event.type == pygame.KEYDOWN:
-            check_keydown_events(event, ship, ai_settings,screen,stats,aliens, bullets)
+            check_keydown_events(event, ship, ai_settings,screen,sb, stats,aliens, bullets)
         
         elif event.type == pygame.KEYUP:
             check_keyup_events(event, ship)
 
 
-def check_bullet_alien_collisions(ai_settings, screen,stats, sb,  ship, aliens, bullets):
+def check_bullet_alien_collisions(ai_settings,stats, sb, aliens, bullets):
    collisions = pygame.sprite.groupcollide(bullets, aliens, True, True)
    if collisions:
        for aliens in collisions.values():
@@ -116,6 +116,7 @@ def check_bullet_alien_collisions(ai_settings, screen,stats, sb,  ship, aliens, 
         sb.prep_score()
         check_high_score(stats, sb)
 
+def level_changer(aliens,bullets,ai_settings,stats,sb,screen,ship):
    if len(aliens)==0:
         bullets.empty()
         ai_settings.increase_speed()
@@ -130,7 +131,8 @@ def update_bullets(ai_settings, screen,stats,sb, ship, aliens,bullets):
     for bullet in bullets.copy():
         if bullet.rect.bottom<=0:
             bullets.remove(bullet)
-    check_bullet_alien_collisions(ai_settings, screen, stats,sb,ship, aliens, bullets)
+    check_bullet_alien_collisions(ai_settings, stats,sb,aliens, bullets)
+    level_changer(aliens,bullets,ai_settings,stats,sb,screen,ship)
 """ The latest updates:
     The group bullets is passed to check_keydown_events(). When the player presses the spacebar,
     we create a new bullet and adds it to the group as well. we also add it to the checkdown events as well
@@ -185,10 +187,11 @@ def update_aliens(ai_settings, stats,sb,  screen, ship, aliens, bullets):
     check_aliens_bottom(ai_settings, stats, sb, screen, ship, aliens, bullets)
 
     if pygame.sprite.spritecollideany(ship, aliens):
-        ship_hit(ai_settings, stats, screen, ship, aliens, bullets)
+        ship_hit(ai_settings, stats,sb,  screen, ship, aliens, bullets)
 
 
 def check_high_score(stats, sb):
     if stats.score > stats.high_score:
         stats.high_score = stats.score
         sb.prep_high_score()
+        stats.save_high_score()
