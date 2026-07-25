@@ -7,6 +7,8 @@ import pygame
 from bullet import Bullet
 from alien import Alien
 from time import sleep
+from shields import Shield
+from random import randint
 """This module imports sys and pygame. After that it is used in many game instances as needed, no need
 to write it every time"""
 
@@ -139,7 +141,7 @@ def update_bullets(ai_settings, screen,stats,sb, ship, aliens,bullets):
      we also added a new function update bullets in the screen and another function specifically focused on firing bullets."""
 
 def get_number_rows(ai_settings, ship_height, alien_height):
-    available_space_y = (ai_settings.screen_height - (3*alien_height)-ship_height)
+    available_space_y = (ai_settings.screen_height /2.5)
     number_rows = int(available_space_y/(2*alien_height))
     return number_rows
 
@@ -156,6 +158,25 @@ def create_alien(ai_settings, screen, aliens, alien_number, row_number):
     alien.rect.y = alien.rect.height + 2* alien.rect.height * row_number
     aliens.add(alien)
 
+def create_shield(ai_settings, screen,ship_height, bricks, column_number):
+    shield = Shield(ai_settings, screen)
+    y_coordinate = randint(ai_settings.screen_height/2, (ai_settings.screen_height-ship_height-(shield.height*5)))
+    shield.y = y_coordinate
+    shield.rect.y = shield.y
+    shield.x = shield.rect.width+ shield.rect.width*column_number
+    bricks.add(shield)
+
+def create_shield(ai_settings, screen, ship, bricks):
+    ship_height = ship.height
+    random = randint(0,1)
+    if random == 0:
+        for column_number in range(ai_settings.screen_width/2):
+            create_shield(ai_settings, screen, ship_height, bricks, column_number)
+    if random == 1:
+            for column_number in range(ai_settings.screen_width/2,-1,-1):
+                create_shield(ai_settings, screen, ship_height, bricks, column_number)
+
+    
 def create_fleet(ai_settings, screen,ship, aliens):
     #create an alien and find the number of aliens in a row
     alien = Alien(ai_settings, screen)
