@@ -2,17 +2,24 @@ import csv
 from matplotlib import pyplot as plt
 from datetime import datetime
 filename = 'python/chapter16/sitka_weather_2014.csv'
+
+""" You don't always have all the data that you are going to be working with, so 
+it is better if you setup a try and else error track, it will be easier to do it"""
 with open(filename) as f:
     reader = csv.reader(f)
     header_row = next(reader)
     dates,highs, lows = [], [], []
     for row in reader:
-        current_date = datetime.strptime(row[0], "%Y-%m-%d")
-        dates.append(current_date)
-        high = int(row[1])
-        highs.append(high)
-        low = int(row[3])
-        lows.append(low)
+        try:    
+            current_date = datetime.strptime(row[0], "%Y-%m-%d")
+            high = int(row[1])
+            low = int(row[3])
+        except ValueError:
+                print(current_date, 'missing data')
+        else:
+            dates.append(current_date)
+            highs.append(high)   
+            lows.append(low)
 
 fig = plt.figure(dpi = 128, figsize = (10,6))
 plt.plot(dates, highs, c = 'red', alpha = 0.5)
