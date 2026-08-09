@@ -1,0 +1,3512 @@
+[
+    {
+        "Country Name": "Afghanistan",
+        "Country Code": "AFG",
+        "Year": 2008,
+        "Value": 11060395115.0
+    },
+    {
+        "Country Name": "Afghanistan",
+        "Country Code": "AFG",
+        "Year": 2009,
+        "Value": 13426272073.0
+    },
+    {
+        "Country Name": "Afghanistan",
+        "Country Code": "AFG",
+        "Year": 2010,
+        "Value": 15354612541.0
+    },
+    {
+        "Country Name": "Albania",
+        "Country Code": "ALB",
+        "Year": 2008,
+        "Value": 9861658465.0
+    },
+    {
+        "Country Name": "Albania",
+        "Country Code": "ALB",
+        "Year": 2009,
+        "Value": 10127011190.0
+    },
+    {
+        "Country Name": "Albania",
+        "Country Code": "ALB",
+        "Year": 2010,
+        "Value": 10428102872.0
+    },
+    {
+        "Country Name": "Algeria",
+        "Country Code": "DZA",
+        "Year": 2008,
+        "Value": 152065353506.0
+    },
+    {
+        "Country Name": "Algeria",
+        "Country Code": "DZA",
+        "Year": 2009,
+        "Value": 153890137748.0
+    },
+    {
+        "Country Name": "Algeria",
+        "Country Code": "DZA",
+        "Year": 2010,
+        "Value": 161276864361.0
+    },
+    {
+        "Country Name": "Andorra",
+        "Country Code": "AND",
+        "Year": 2008,
+        "Value": 3154034157.0
+    },
+    {
+        "Country Name": "Andorra",
+        "Country Code": "AND",
+        "Year": 2009,
+        "Value": 2986780565.0
+    },
+    {
+        "Country Name": "Andorra",
+        "Country Code": "AND",
+        "Year": 2010,
+        "Value": 2927792904.0
+    },
+    {
+        "Country Name": "Angola",
+        "Country Code": "AGO",
+        "Year": 2008,
+        "Value": 76802645840.0
+    },
+    {
+        "Country Name": "Angola",
+        "Country Code": "AGO",
+        "Year": 2009,
+        "Value": 78335311067.0
+    },
+    {
+        "Country Name": "Angola",
+        "Country Code": "AGO",
+        "Year": 2010,
+        "Value": 82482120582.0
+    },
+    {
+        "Country Name": "Antigua and Barbuda",
+        "Country Code": "ATG",
+        "Year": 2008,
+        "Value": 1696776362.0
+    },
+    {
+        "Country Name": "Antigua and Barbuda",
+        "Country Code": "ATG",
+        "Year": 2009,
+        "Value": 1493793051.0
+    },
+    {
+        "Country Name": "Antigua and Barbuda",
+        "Country Code": "ATG",
+        "Year": 2010,
+        "Value": 1376672104.0
+    },
+    {
+        "Country Name": "Argentina",
+        "Country Code": "ARG",
+        "Year": 2008,
+        "Value": 533491913656.0
+    },
+    {
+        "Country Name": "Argentina",
+        "Country Code": "ARG",
+        "Year": 2009,
+        "Value": 501917060966.0
+    },
+    {
+        "Country Name": "Argentina",
+        "Country Code": "ARG",
+        "Year": 2010,
+        "Value": 552738161802.0
+    },
+    {
+        "Country Name": "Armenia",
+        "Country Code": "ARM",
+        "Year": 2008,
+        "Value": 9697605816.0
+    },
+    {
+        "Country Name": "Armenia",
+        "Country Code": "ARM",
+        "Year": 2009,
+        "Value": 8330243396.0
+    },
+    {
+        "Country Name": "Armenia",
+        "Country Code": "ARM",
+        "Year": 2010,
+        "Value": 8513508751.0
+    },
+    {
+        "Country Name": "Australia",
+        "Country Code": "AUS",
+        "Year": 2008,
+        "Value": 1136774249983.0
+    },
+    {
+        "Country Name": "Australia",
+        "Country Code": "AUS",
+        "Year": 2009,
+        "Value": 1158996461663.0
+    },
+    {
+        "Country Name": "Australia",
+        "Country Code": "AUS",
+        "Year": 2010,
+        "Value": 1184610839239.0
+    },
+    {
+        "Country Name": "Austria",
+        "Country Code": "AUT",
+        "Year": 2008,
+        "Value": 366677269701.0
+    },
+    {
+        "Country Name": "Austria",
+        "Country Code": "AUT",
+        "Year": 2009,
+        "Value": 353527252121.0
+    },
+    {
+        "Country Name": "Austria",
+        "Country Code": "AUT",
+        "Year": 2010,
+        "Value": 359922497999.0
+    },
+    {
+        "Country Name": "Azerbaijan",
+        "Country Code": "AZE",
+        "Year": 2008,
+        "Value": 41872616483.0
+    },
+    {
+        "Country Name": "Azerbaijan",
+        "Country Code": "AZE",
+        "Year": 2009,
+        "Value": 45795872374.0
+    },
+    {
+        "Country Name": "Azerbaijan",
+        "Country Code": "AZE",
+        "Year": 2010,
+        "Value": 47988959988.0
+    },
+    {
+        "Country Name": "Bahamas",
+        "Country Code": "BHS",
+        "Year": 2008,
+        "Value": 11578673030.0
+    },
+    {
+        "Country Name": "Bahamas",
+        "Country Code": "BHS",
+        "Year": 2009,
+        "Value": 11095213868.0
+    },
+    {
+        "Country Name": "Bahamas",
+        "Country Code": "BHS",
+        "Year": 2010,
+        "Value": 11265931761.0
+    },
+    {
+        "Country Name": "Bahrain",
+        "Country Code": "BHR",
+        "Year": 2008,
+        "Value": 25520789027.0
+    },
+    {
+        "Country Name": "Bahrain",
+        "Country Code": "BHR",
+        "Year": 2009,
+        "Value": 26168987898.0
+    },
+    {
+        "Country Name": "Bahrain",
+        "Country Code": "BHR",
+        "Year": 2010,
+        "Value": 27303230073.0
+    },
+    {
+        "Country Name": "Bangladesh",
+        "Country Code": "BGD",
+        "Year": 2008,
+        "Value": 129513195397.0
+    },
+    {
+        "Country Name": "Bangladesh",
+        "Country Code": "BGD",
+        "Year": 2009,
+        "Value": 136047297736.0
+    },
+    {
+        "Country Name": "Bangladesh",
+        "Country Code": "BGD",
+        "Year": 2010,
+        "Value": 143627564998.0
+    },
+    {
+        "Country Name": "Barbados",
+        "Country Code": "BRB",
+        "Year": 2008,
+        "Value": 6710251324.0
+    },
+    {
+        "Country Name": "Barbados",
+        "Country Code": "BRB",
+        "Year": 2009,
+        "Value": 6373579532.0
+    },
+    {
+        "Country Name": "Barbados",
+        "Country Code": "BRB",
+        "Year": 2010,
+        "Value": 5858548339.0
+    },
+    {
+        "Country Name": "Belarus",
+        "Country Code": "BLR",
+        "Year": 2008,
+        "Value": 49332527208.0
+    },
+    {
+        "Country Name": "Belarus",
+        "Country Code": "BLR",
+        "Year": 2009,
+        "Value": 49431189910.0
+    },
+    {
+        "Country Name": "Belarus",
+        "Country Code": "BLR",
+        "Year": 2010,
+        "Value": 53262115569.0
+    },
+    {
+        "Country Name": "Belgium",
+        "Country Code": "BEL",
+        "Year": 2008,
+        "Value": 432478429044.0
+    },
+    {
+        "Country Name": "Belgium",
+        "Country Code": "BEL",
+        "Year": 2009,
+        "Value": 424233482718.0
+    },
+    {
+        "Country Name": "Belgium",
+        "Country Code": "BEL",
+        "Year": 2010,
+        "Value": 435731531598.0
+    },
+    {
+        "Country Name": "Belize",
+        "Country Code": "BLZ",
+        "Year": 2008,
+        "Value": 1883373343.0
+    },
+    {
+        "Country Name": "Belize",
+        "Country Code": "BLZ",
+        "Year": 2009,
+        "Value": 1874960133.0
+    },
+    {
+        "Country Name": "Belize",
+        "Country Code": "BLZ",
+        "Year": 2010,
+        "Value": 1901536024.0
+    },
+    {
+        "Country Name": "Benin",
+        "Country Code": "BEN",
+        "Year": 2008,
+        "Value": 8704320326.0
+    },
+    {
+        "Country Name": "Benin",
+        "Country Code": "BEN",
+        "Year": 2009,
+        "Value": 8906198943.0
+    },
+    {
+        "Country Name": "Benin",
+        "Country Code": "BEN",
+        "Year": 2010,
+        "Value": 9094481753.0
+    },
+    {
+        "Country Name": "Bhutan",
+        "Country Code": "BTN",
+        "Year": 2008,
+        "Value": 1384891723.0
+    },
+    {
+        "Country Name": "Bhutan",
+        "Country Code": "BTN",
+        "Year": 2009,
+        "Value": 1491078191.0
+    },
+    {
+        "Country Name": "Bhutan",
+        "Country Code": "BTN",
+        "Year": 2010,
+        "Value": 1668991759.0
+    },
+    {
+        "Country Name": "Bolivia",
+        "Country Code": "BOL",
+        "Year": 2008,
+        "Value": 23477060534.0
+    },
+    {
+        "Country Name": "Bolivia",
+        "Country Code": "BOL",
+        "Year": 2009,
+        "Value": 24265185359.0
+    },
+    {
+        "Country Name": "Bolivia",
+        "Country Code": "BOL",
+        "Year": 2010,
+        "Value": 25266542244.0
+    },
+    {
+        "Country Name": "Bosnia and Herzegovina",
+        "Country Code": "BIH",
+        "Year": 2008,
+        "Value": 15510030554.0
+    },
+    {
+        "Country Name": "Bosnia and Herzegovina",
+        "Country Code": "BIH",
+        "Year": 2009,
+        "Value": 15044038582.0
+    },
+    {
+        "Country Name": "Bosnia and Herzegovina",
+        "Country Code": "BIH",
+        "Year": 2010,
+        "Value": 15174269895.0
+    },
+    {
+        "Country Name": "Botswana",
+        "Country Code": "BWA",
+        "Year": 2008,
+        "Value": 12009117014.0
+    },
+    {
+        "Country Name": "Botswana",
+        "Country Code": "BWA",
+        "Year": 2009,
+        "Value": 10310519328.0
+    },
+    {
+        "Country Name": "Botswana",
+        "Country Code": "BWA",
+        "Year": 2010,
+        "Value": 11353915357.0
+    },
+    {
+        "Country Name": "Brazil",
+        "Country Code": "BRA",
+        "Year": 2008,
+        "Value": 1585905180197.0
+    },
+    {
+        "Country Name": "Brazil",
+        "Country Code": "BRA",
+        "Year": 2009,
+        "Value": 1583909921137.0
+    },
+    {
+        "Country Name": "Brazil",
+        "Country Code": "BRA",
+        "Year": 2010,
+        "Value": 1703150236756.0
+    },
+    {
+        "Country Name": "Brunei",
+        "Country Code": "BRN",
+        "Year": 2008,
+        "Value": 12892826165.0
+    },
+    {
+        "Country Name": "Brunei",
+        "Country Code": "BRN",
+        "Year": 2009,
+        "Value": 12647829762.0
+    },
+    {
+        "Country Name": "Brunei",
+        "Country Code": "BRN",
+        "Year": 2010,
+        "Value": 12994552864.0
+    },
+    {
+        "Country Name": "Bulgaria",
+        "Country Code": "BGR",
+        "Year": 2008,
+        "Value": 48439798806.0
+    },
+    {
+        "Country Name": "Bulgaria",
+        "Country Code": "BGR",
+        "Year": 2009,
+        "Value": 46818449430.0
+    },
+    {
+        "Country Name": "Bulgaria",
+        "Country Code": "BGR",
+        "Year": 2010,
+        "Value": 47546646111.0
+    },
+    {
+        "Country Name": "Burkina Faso",
+        "Country Code": "BFA",
+        "Year": 2008,
+        "Value": 8139754707.0
+    },
+    {
+        "Country Name": "Burkina Faso",
+        "Country Code": "BFA",
+        "Year": 2009,
+        "Value": 8380850241.0
+    },
+    {
+        "Country Name": "Burkina Faso",
+        "Country Code": "BFA",
+        "Year": 2010,
+        "Value": 9088720451.0
+    },
+    {
+        "Country Name": "Burundi",
+        "Country Code": "BDI",
+        "Year": 2008,
+        "Value": 2177549065.0
+    },
+    {
+        "Country Name": "Burundi",
+        "Country Code": "BDI",
+        "Year": 2009,
+        "Value": 2260014499.0
+    },
+    {
+        "Country Name": "Burundi",
+        "Country Code": "BDI",
+        "Year": 2010,
+        "Value": 2375133693.0
+    },
+    {
+        "Country Name": "Cambodia",
+        "Country Code": "KHM",
+        "Year": 2008,
+        "Value": 15326369460.0
+    },
+    {
+        "Country Name": "Cambodia",
+        "Country Code": "KHM",
+        "Year": 2009,
+        "Value": 15950885068.0
+    },
+    {
+        "Country Name": "Cambodia",
+        "Country Code": "KHM",
+        "Year": 2010,
+        "Value": 16760698493.0
+    },
+    {
+        "Country Name": "Cameroon",
+        "Country Code": "CMR",
+        "Year": 2008,
+        "Value": 24053813243.0
+    },
+    {
+        "Country Name": "Cameroon",
+        "Country Code": "CMR",
+        "Year": 2009,
+        "Value": 24674221649.0
+    },
+    {
+        "Country Name": "Cameroon",
+        "Country Code": "CMR",
+        "Year": 2010,
+        "Value": 25389533434.0
+    },
+    {
+        "Country Name": "Canada",
+        "Country Code": "CAN",
+        "Year": 2008,
+        "Value": 1398634398326.0
+    },
+    {
+        "Country Name": "Canada",
+        "Country Code": "CAN",
+        "Year": 2009,
+        "Value": 1357862999005.0
+    },
+    {
+        "Country Name": "Canada",
+        "Country Code": "CAN",
+        "Year": 2010,
+        "Value": 1399831914632.0
+    },
+    {
+        "Country Name": "Cape Verde",
+        "Country Code": "CPV",
+        "Year": 2008,
+        "Value": 1623608884.0
+    },
+    {
+        "Country Name": "Cape Verde",
+        "Country Code": "CPV",
+        "Year": 2009,
+        "Value": 1599196517.0
+    },
+    {
+        "Country Name": "Cape Verde",
+        "Country Code": "CPV",
+        "Year": 2010,
+        "Value": 1628564468.0
+    },
+    {
+        "Country Name": "Central African Republic",
+        "Country Code": "CAF",
+        "Year": 2008,
+        "Value": 2052972574.0
+    },
+    {
+        "Country Name": "Central African Republic",
+        "Country Code": "CAF",
+        "Year": 2009,
+        "Value": 2229266675.0
+    },
+    {
+        "Country Name": "Central African Republic",
+        "Country Code": "CAF",
+        "Year": 2010,
+        "Value": 2332499967.0
+    },
+    {
+        "Country Name": "Chad",
+        "Country Code": "TCD",
+        "Year": 2008,
+        "Value": 10513288725.0
+    },
+    {
+        "Country Name": "Chad",
+        "Country Code": "TCD",
+        "Year": 2009,
+        "Value": 10365231906.0
+    },
+    {
+        "Country Name": "Chad",
+        "Country Code": "TCD",
+        "Year": 2010,
+        "Value": 11782555814.0
+    },
+    {
+        "Country Name": "Chile",
+        "Country Code": "CHL",
+        "Year": 2008,
+        "Value": 191225100461.0
+    },
+    {
+        "Country Name": "Chile",
+        "Country Code": "CHL",
+        "Year": 2009,
+        "Value": 189087132632.0
+    },
+    {
+        "Country Name": "Chile",
+        "Country Code": "CHL",
+        "Year": 2010,
+        "Value": 200151851762.0
+    },
+    {
+        "Country Name": "China",
+        "Country Code": "CHN",
+        "Year": 2008,
+        "Value": 6373372030110.0
+    },
+    {
+        "Country Name": "China",
+        "Country Code": "CHN",
+        "Year": 2009,
+        "Value": 6972857785771.0
+    },
+    {
+        "Country Name": "China",
+        "Country Code": "CHN",
+        "Year": 2010,
+        "Value": 7711401293675.0
+    },
+    {
+        "Country Name": "Colombia",
+        "Country Code": "COL",
+        "Year": 2008,
+        "Value": 220919487240.0
+    },
+    {
+        "Country Name": "Colombia",
+        "Country Code": "COL",
+        "Year": 2009,
+        "Value": 223437193184.0
+    },
+    {
+        "Country Name": "Colombia",
+        "Country Code": "COL",
+        "Year": 2010,
+        "Value": 233479933032.0
+    },
+    {
+        "Country Name": "Comoros",
+        "Country Code": "COM",
+        "Year": 2008,
+        "Value": 777806337.0
+    },
+    {
+        "Country Name": "Comoros",
+        "Country Code": "COM",
+        "Year": 2009,
+        "Value": 803013024.0
+    },
+    {
+        "Country Name": "Comoros",
+        "Country Code": "COM",
+        "Year": 2010,
+        "Value": 833348983.0
+    },
+    {
+        "Country Name": "Congo",
+        "Country Code": "COG",
+        "Year": 2008,
+        "Value": 8480255108.0
+    },
+    {
+        "Country Name": "Congo",
+        "Country Code": "COG",
+        "Year": 2009,
+        "Value": 9467126891.0
+    },
+    {
+        "Country Name": "Congo",
+        "Country Code": "COG",
+        "Year": 2010,
+        "Value": 10407332392.0
+    },
+    {
+        "Country Name": "Costa Rica",
+        "Country Code": "CRI",
+        "Year": 2008,
+        "Value": 44866362879.0
+    },
+    {
+        "Country Name": "Costa Rica",
+        "Country Code": "CRI",
+        "Year": 2009,
+        "Value": 44474474900.0
+    },
+    {
+        "Country Name": "Costa Rica",
+        "Country Code": "CRI",
+        "Year": 2010,
+        "Value": 46858459514.0
+    },
+    {
+        "Country Name": "Cote d'Ivoire",
+        "Country Code": "CIV",
+        "Year": 2008,
+        "Value": 31295490700.0
+    },
+    {
+        "Country Name": "Cote d'Ivoire",
+        "Country Code": "CIV",
+        "Year": 2009,
+        "Value": 32423167866.0
+    },
+    {
+        "Country Name": "Cote d'Ivoire",
+        "Country Code": "CIV",
+        "Year": 2010,
+        "Value": 34643522418.0
+    },
+    {
+        "Country Name": "Croatia",
+        "Country Code": "HRV",
+        "Year": 2008,
+        "Value": 55899090638.0
+    },
+    {
+        "Country Name": "Croatia",
+        "Country Code": "HRV",
+        "Year": 2009,
+        "Value": 52091418017.0
+    },
+    {
+        "Country Name": "Croatia",
+        "Country Code": "HRV",
+        "Year": 2010,
+        "Value": 51395391839.0
+    },
+    {
+        "Country Name": "Cuba",
+        "Country Code": "CUB",
+        "Year": 2008,
+        "Value": 73047369063.0
+    },
+    {
+        "Country Name": "Cuba",
+        "Country Code": "CUB",
+        "Year": 2009,
+        "Value": 74107509498.0
+    },
+    {
+        "Country Name": "Cuba",
+        "Country Code": "CUB",
+        "Year": 2010,
+        "Value": 75878940053.0
+    },
+    {
+        "Country Name": "Cyprus",
+        "Country Code": "CYP",
+        "Year": 2008,
+        "Value": 21592429642.0
+    },
+    {
+        "Country Name": "Cyprus",
+        "Country Code": "CYP",
+        "Year": 2009,
+        "Value": 21157324471.0
+    },
+    {
+        "Country Name": "Cyprus",
+        "Country Code": "CYP",
+        "Year": 2010,
+        "Value": 21640276581.0
+    },
+    {
+        "Country Name": "Czechia",
+        "Country Code": "CZE",
+        "Year": 2008,
+        "Value": 178518044754.0
+    },
+    {
+        "Country Name": "Czechia",
+        "Country Code": "CZE",
+        "Year": 2009,
+        "Value": 169952170270.0
+    },
+    {
+        "Country Name": "Czechia",
+        "Country Code": "CZE",
+        "Year": 2010,
+        "Value": 174565802522.0
+    },
+    {
+        "Country Name": "Democratic Republic of Congo",
+        "Country Code": "COD",
+        "Year": 2008,
+        "Value": 25346774324.0
+    },
+    {
+        "Country Name": "Democratic Republic of Congo",
+        "Country Code": "COD",
+        "Year": 2009,
+        "Value": 25484044900.0
+    },
+    {
+        "Country Name": "Democratic Republic of Congo",
+        "Country Code": "COD",
+        "Year": 2010,
+        "Value": 27680432461.0
+    },
+    {
+        "Country Name": "Denmark",
+        "Country Code": "DNK",
+        "Year": 2008,
+        "Value": 294307201413.0
+    },
+    {
+        "Country Name": "Denmark",
+        "Country Code": "DNK",
+        "Year": 2009,
+        "Value": 279666951317.0
+    },
+    {
+        "Country Name": "Denmark",
+        "Country Code": "DNK",
+        "Year": 2010,
+        "Value": 284093791186.0
+    },
+    {
+        "Country Name": "Djibouti",
+        "Country Code": "DJI",
+        "Year": 2008,
+        "Value": 2107658964.0
+    },
+    {
+        "Country Name": "Djibouti",
+        "Country Code": "DJI",
+        "Year": 2009,
+        "Value": 2107658964.0
+    },
+    {
+        "Country Name": "Djibouti",
+        "Country Code": "DJI",
+        "Year": 2010,
+        "Value": 2107658964.0
+    },
+    {
+        "Country Name": "Dominica",
+        "Country Code": "DMA",
+        "Year": 2008,
+        "Value": 597829935.0
+    },
+    {
+        "Country Name": "Dominica",
+        "Country Code": "DMA",
+        "Year": 2009,
+        "Value": 591040072.0
+    },
+    {
+        "Country Name": "Dominica",
+        "Country Code": "DMA",
+        "Year": 2010,
+        "Value": 590415870.0
+    },
+    {
+        "Country Name": "Dominican Republic",
+        "Country Code": "DOM",
+        "Year": 2008,
+        "Value": 50823044977.0
+    },
+    {
+        "Country Name": "Dominican Republic",
+        "Country Code": "DOM",
+        "Year": 2009,
+        "Value": 51333030311.0
+    },
+    {
+        "Country Name": "Dominican Republic",
+        "Country Code": "DOM",
+        "Year": 2010,
+        "Value": 55645592832.0
+    },
+    {
+        "Country Name": "East Timor",
+        "Country Code": "TLS",
+        "Year": 2008,
+        "Value": 1076687532.0
+    },
+    {
+        "Country Name": "East Timor",
+        "Country Code": "TLS",
+        "Year": 2009,
+        "Value": 1185938525.0
+    },
+    {
+        "Country Name": "East Timor",
+        "Country Code": "TLS",
+        "Year": 2010,
+        "Value": 1296604318.0
+    },
+    {
+        "Country Name": "Ecuador",
+        "Country Code": "ECU",
+        "Year": 2008,
+        "Value": 72000071699.0
+    },
+    {
+        "Country Name": "Ecuador",
+        "Country Code": "ECU",
+        "Year": 2009,
+        "Value": 72785601820.0
+    },
+    {
+        "Country Name": "Ecuador",
+        "Country Code": "ECU",
+        "Year": 2010,
+        "Value": 75718234074.0
+    },
+    {
+        "Country Name": "Egypt",
+        "Country Code": "EGY",
+        "Year": 2008,
+        "Value": 262077623378.0
+    },
+    {
+        "Country Name": "Egypt",
+        "Country Code": "EGY",
+        "Year": 2009,
+        "Value": 274326082660.0
+    },
+    {
+        "Country Name": "Egypt",
+        "Country Code": "EGY",
+        "Year": 2010,
+        "Value": 288446290410.0
+    },
+    {
+        "Country Name": "El Salvador",
+        "Country Code": "SLV",
+        "Year": 2008,
+        "Value": 20622904543.0
+    },
+    {
+        "Country Name": "El Salvador",
+        "Country Code": "SLV",
+        "Year": 2009,
+        "Value": 20188015254.0
+    },
+    {
+        "Country Name": "El Salvador",
+        "Country Code": "SLV",
+        "Year": 2010,
+        "Value": 20622904543.0
+    },
+    {
+        "Country Name": "Equatorial Guinea",
+        "Country Code": "GNQ",
+        "Year": 2008,
+        "Value": 14151023687.0
+    },
+    {
+        "Country Name": "Equatorial Guinea",
+        "Country Code": "GNQ",
+        "Year": 2009,
+        "Value": 14341122354.0
+    },
+    {
+        "Country Name": "Equatorial Guinea",
+        "Country Code": "GNQ",
+        "Year": 2010,
+        "Value": 13061295371.0
+    },
+    {
+        "Country Name": "Eritrea",
+        "Country Code": "ERI",
+        "Year": 2008,
+        "Value": 1952837971.0
+    },
+    {
+        "Country Name": "Eritrea",
+        "Country Code": "ERI",
+        "Year": 2009,
+        "Value": 2028539764.0
+    },
+    {
+        "Country Name": "Eritrea",
+        "Country Code": "ERI",
+        "Year": 2010,
+        "Value": 2073049788.0
+    },
+    {
+        "Country Name": "Estonia",
+        "Country Code": "EST",
+        "Year": 2008,
+        "Value": 22314692031.0
+    },
+    {
+        "Country Name": "Estonia",
+        "Country Code": "EST",
+        "Year": 2009,
+        "Value": 19050002927.0
+    },
+    {
+        "Country Name": "Estonia",
+        "Country Code": "EST",
+        "Year": 2010,
+        "Value": 19516680413.0
+    },
+    {
+        "Country Name": "Eswatini",
+        "Country Code": "SWZ",
+        "Year": 2008,
+        "Value": 3240107842.0
+    },
+    {
+        "Country Name": "Eswatini",
+        "Country Code": "SWZ",
+        "Year": 2009,
+        "Value": 3286542195.0
+    },
+    {
+        "Country Name": "Eswatini",
+        "Country Code": "SWZ",
+        "Year": 2010,
+        "Value": 3412233861.0
+    },
+    {
+        "Country Name": "Ethiopia",
+        "Country Code": "ETH",
+        "Year": 2008,
+        "Value": 31192831993.0
+    },
+    {
+        "Country Name": "Ethiopia",
+        "Country Code": "ETH",
+        "Year": 2009,
+        "Value": 33938597623.0
+    },
+    {
+        "Country Name": "Ethiopia",
+        "Country Code": "ETH",
+        "Year": 2010,
+        "Value": 38198074328.0
+    },
+    {
+        "Country Name": "Fiji",
+        "Country Code": "FJI",
+        "Year": 2008,
+        "Value": 3831109770.0
+    },
+    {
+        "Country Name": "Fiji",
+        "Country Code": "FJI",
+        "Year": 2009,
+        "Value": 3778009151.0
+    },
+    {
+        "Country Name": "Fiji",
+        "Country Code": "FJI",
+        "Year": 2010,
+        "Value": 3889636956.0
+    },
+    {
+        "Country Name": "Finland",
+        "Country Code": "FIN",
+        "Year": 2008,
+        "Value": 246328504349.0
+    },
+    {
+        "Country Name": "Finland",
+        "Country Code": "FIN",
+        "Year": 2009,
+        "Value": 226434937568.0
+    },
+    {
+        "Country Name": "Finland",
+        "Country Code": "FIN",
+        "Year": 2010,
+        "Value": 233609048324.0
+    },
+    {
+        "Country Name": "France",
+        "Country Code": "FRA",
+        "Year": 2008,
+        "Value": 2334072135222.0
+    },
+    {
+        "Country Name": "France",
+        "Country Code": "FRA",
+        "Year": 2009,
+        "Value": 2268145064848.0
+    },
+    {
+        "Country Name": "France",
+        "Country Code": "FRA",
+        "Year": 2010,
+        "Value": 2313515332182.0
+    },
+    {
+        "Country Name": "Gabon",
+        "Country Code": "GAB",
+        "Year": 2008,
+        "Value": 10395827037.0
+    },
+    {
+        "Country Name": "Gabon",
+        "Country Code": "GAB",
+        "Year": 2009,
+        "Value": 10409376035.0
+    },
+    {
+        "Country Name": "Gabon",
+        "Country Code": "GAB",
+        "Year": 2010,
+        "Value": 11147389066.0
+    },
+    {
+        "Country Name": "Gambia",
+        "Country Code": "GMB",
+        "Year": 2008,
+        "Value": 1195557048.0
+    },
+    {
+        "Country Name": "Gambia",
+        "Country Code": "GMB",
+        "Year": 2009,
+        "Value": 1275249585.0
+    },
+    {
+        "Country Name": "Gambia",
+        "Country Code": "GMB",
+        "Year": 2010,
+        "Value": 1350595613.0
+    },
+    {
+        "Country Name": "Georgia",
+        "Country Code": "GEO",
+        "Year": 2008,
+        "Value": 11430503827.0
+    },
+    {
+        "Country Name": "Georgia",
+        "Country Code": "GEO",
+        "Year": 2009,
+        "Value": 11013204446.0
+    },
+    {
+        "Country Name": "Georgia",
+        "Country Code": "GEO",
+        "Year": 2010,
+        "Value": 11701134202.0
+    },
+    {
+        "Country Name": "Germany",
+        "Country Code": "DEU",
+        "Year": 2008,
+        "Value": 3203102383827.0
+    },
+    {
+        "Country Name": "Germany",
+        "Country Code": "DEU",
+        "Year": 2009,
+        "Value": 3025504625850.0
+    },
+    {
+        "Country Name": "Germany",
+        "Country Code": "DEU",
+        "Year": 2010,
+        "Value": 3150598283304.0
+    },
+    {
+        "Country Name": "Ghana",
+        "Country Code": "GHA",
+        "Year": 2008,
+        "Value": 31103809332.0
+    },
+    {
+        "Country Name": "Ghana",
+        "Country Code": "GHA",
+        "Year": 2009,
+        "Value": 32610629348.0
+    },
+    {
+        "Country Name": "Ghana",
+        "Country Code": "GHA",
+        "Year": 2010,
+        "Value": 35186775129.0
+    },
+    {
+        "Country Name": "Greece",
+        "Country Code": "GRC",
+        "Year": 2008,
+        "Value": 265024939553.0
+    },
+    {
+        "Country Name": "Greece",
+        "Country Code": "GRC",
+        "Year": 2009,
+        "Value": 254107830646.0
+    },
+    {
+        "Country Name": "Greece",
+        "Country Code": "GRC",
+        "Year": 2010,
+        "Value": 239639588360.0
+    },
+    {
+        "Country Name": "Greenland",
+        "Country Code": "GRL",
+        "Year": 2008,
+        "Value": 2395498418.0
+    },
+    {
+        "Country Name": "Greenland",
+        "Country Code": "GRL",
+        "Year": 2009,
+        "Value": 2416242292.0
+    },
+    {
+        "Country Name": "Greenland",
+        "Country Code": "GRL",
+        "Year": 2010,
+        "Value": 2458184031.0
+    },
+    {
+        "Country Name": "Grenada",
+        "Country Code": "GRD",
+        "Year": 2008,
+        "Value": 921267656.0
+    },
+    {
+        "Country Name": "Grenada",
+        "Country Code": "GRD",
+        "Year": 2009,
+        "Value": 860341634.0
+    },
+    {
+        "Country Name": "Grenada",
+        "Country Code": "GRD",
+        "Year": 2010,
+        "Value": 855944031.0
+    },
+    {
+        "Country Name": "Guatemala",
+        "Country Code": "GTM",
+        "Year": 2008,
+        "Value": 49747600113.0
+    },
+    {
+        "Country Name": "Guatemala",
+        "Country Code": "GTM",
+        "Year": 2009,
+        "Value": 49984845476.0
+    },
+    {
+        "Country Name": "Guatemala",
+        "Country Code": "GTM",
+        "Year": 2010,
+        "Value": 51426496107.0
+    },
+    {
+        "Country Name": "Guinea",
+        "Country Code": "GIN",
+        "Year": 2008,
+        "Value": 6778506429.0
+    },
+    {
+        "Country Name": "Guinea",
+        "Country Code": "GIN",
+        "Year": 2009,
+        "Value": 6702408065.0
+    },
+    {
+        "Country Name": "Guinea",
+        "Country Code": "GIN",
+        "Year": 2010,
+        "Value": 7025019105.0
+    },
+    {
+        "Country Name": "Guinea-Bissau",
+        "Country Code": "GNB",
+        "Year": 2008,
+        "Value": 906163311.0
+    },
+    {
+        "Country Name": "Guinea-Bissau",
+        "Country Code": "GNB",
+        "Year": 2009,
+        "Value": 928345745.0
+    },
+    {
+        "Country Name": "Guinea-Bissau",
+        "Country Code": "GNB",
+        "Year": 2010,
+        "Value": 980382895.0
+    },
+    {
+        "Country Name": "Guyana",
+        "Country Code": "GUY",
+        "Year": 2008,
+        "Value": 3374858506.0
+    },
+    {
+        "Country Name": "Guyana",
+        "Country Code": "GUY",
+        "Year": 2009,
+        "Value": 3496741806.0
+    },
+    {
+        "Country Name": "Guyana",
+        "Country Code": "GUY",
+        "Year": 2010,
+        "Value": 3641452424.0
+    },
+    {
+        "Country Name": "Haiti",
+        "Country Code": "HTI",
+        "Year": 2008,
+        "Value": 12928818990.0
+    },
+    {
+        "Country Name": "Haiti",
+        "Country Code": "HTI",
+        "Year": 2009,
+        "Value": 13690375422.0
+    },
+    {
+        "Country Name": "Haiti",
+        "Country Code": "HTI",
+        "Year": 2010,
+        "Value": 12916662276.0
+    },
+    {
+        "Country Name": "Honduras",
+        "Country Code": "HND",
+        "Year": 2008,
+        "Value": 17428555328.0
+    },
+    {
+        "Country Name": "Honduras",
+        "Country Code": "HND",
+        "Year": 2009,
+        "Value": 17004757718.0
+    },
+    {
+        "Country Name": "Honduras",
+        "Country Code": "HND",
+        "Year": 2010,
+        "Value": 17639229093.0
+    },
+    {
+        "Country Name": "Hungary",
+        "Country Code": "HUN",
+        "Year": 2008,
+        "Value": 119752782052.0
+    },
+    {
+        "Country Name": "Hungary",
+        "Country Code": "HUN",
+        "Year": 2009,
+        "Value": 111681245651.0
+    },
+    {
+        "Country Name": "Hungary",
+        "Country Code": "HUN",
+        "Year": 2010,
+        "Value": 112873946275.0
+    },
+    {
+        "Country Name": "Iceland",
+        "Country Code": "ISL",
+        "Year": 2008,
+        "Value": 17572297288.0
+    },
+    {
+        "Country Name": "Iceland",
+        "Country Code": "ISL",
+        "Year": 2009,
+        "Value": 16110024869.0
+    },
+    {
+        "Country Name": "Iceland",
+        "Country Code": "ISL",
+        "Year": 2010,
+        "Value": 15752089366.0
+    },
+    {
+        "Country Name": "India",
+        "Country Code": "IND",
+        "Year": 2008,
+        "Value": 1312424303400.0
+    },
+    {
+        "Country Name": "India",
+        "Country Code": "IND",
+        "Year": 2009,
+        "Value": 1415605643151.0
+    },
+    {
+        "Country Name": "India",
+        "Country Code": "IND",
+        "Year": 2010,
+        "Value": 1535897931719.0
+    },
+    {
+        "Country Name": "Indonesia",
+        "Country Code": "IDN",
+        "Year": 2008,
+        "Value": 591893632243.0
+    },
+    {
+        "Country Name": "Indonesia",
+        "Country Code": "IDN",
+        "Year": 2009,
+        "Value": 619291626017.0
+    },
+    {
+        "Country Name": "Indonesia",
+        "Country Code": "IDN",
+        "Year": 2010,
+        "Value": 657835433773.0
+    },
+    {
+        "Country Name": "Iran",
+        "Country Code": "IRN",
+        "Year": 2008,
+        "Value": 380285006935.0
+    },
+    {
+        "Country Name": "Iran",
+        "Country Code": "IRN",
+        "Year": 2009,
+        "Value": 384115942794.0
+    },
+    {
+        "Country Name": "Iran",
+        "Country Code": "IRN",
+        "Year": 2010,
+        "Value": 406386748164.0
+    },
+    {
+        "Country Name": "Iraq",
+        "Country Code": "IRQ",
+        "Year": 2008,
+        "Value": 109562085020.0
+    },
+    {
+        "Country Name": "Iraq",
+        "Country Code": "IRQ",
+        "Year": 2009,
+        "Value": 113264515567.0
+    },
+    {
+        "Country Name": "Iraq",
+        "Country Code": "IRQ",
+        "Year": 2010,
+        "Value": 120516349622.0
+    },
+    {
+        "Country Name": "Ireland",
+        "Country Code": "IRL",
+        "Year": 2008,
+        "Value": 222058051543.0
+    },
+    {
+        "Country Name": "Ireland",
+        "Country Code": "IRL",
+        "Year": 2009,
+        "Value": 210742455593.0
+    },
+    {
+        "Country Name": "Ireland",
+        "Country Code": "IRL",
+        "Year": 2010,
+        "Value": 214289191596.0
+    },
+    {
+        "Country Name": "Israel",
+        "Country Code": "ISR",
+        "Year": 2008,
+        "Value": 237680439766.0
+    },
+    {
+        "Country Name": "Israel",
+        "Country Code": "ISR",
+        "Year": 2009,
+        "Value": 240580556617.0
+    },
+    {
+        "Country Name": "Israel",
+        "Country Code": "ISR",
+        "Year": 2010,
+        "Value": 253920041344.0
+    },
+    {
+        "Country Name": "Italy",
+        "Country Code": "ITA",
+        "Year": 2008,
+        "Value": 1986572667176.0
+    },
+    {
+        "Country Name": "Italy",
+        "Country Code": "ITA",
+        "Year": 2009,
+        "Value": 1881181927615.0
+    },
+    {
+        "Country Name": "Italy",
+        "Country Code": "ITA",
+        "Year": 2010,
+        "Value": 1909947188308.0
+    },
+    {
+        "Country Name": "Jamaica",
+        "Country Code": "JAM",
+        "Year": 2008,
+        "Value": 15371463204.0
+    },
+    {
+        "Country Name": "Jamaica",
+        "Country Code": "JAM",
+        "Year": 2009,
+        "Value": 14703526728.0
+    },
+    {
+        "Country Name": "Jamaica",
+        "Country Code": "JAM",
+        "Year": 2010,
+        "Value": 14489274699.0
+    },
+    {
+        "Country Name": "Japan",
+        "Country Code": "JPN",
+        "Year": 2008,
+        "Value": 4355242255151.0
+    },
+    {
+        "Country Name": "Japan",
+        "Country Code": "JPN",
+        "Year": 2009,
+        "Value": 4096717638451.0
+    },
+    {
+        "Country Name": "Japan",
+        "Country Code": "JPN",
+        "Year": 2010,
+        "Value": 4266176556594.0
+    },
+    {
+        "Country Name": "Jordan",
+        "Country Code": "JOR",
+        "Year": 2008,
+        "Value": 34267003610.0
+    },
+    {
+        "Country Name": "Jordan",
+        "Country Code": "JOR",
+        "Year": 2009,
+        "Value": 36020333882.0
+    },
+    {
+        "Country Name": "Jordan",
+        "Country Code": "JOR",
+        "Year": 2010,
+        "Value": 36970447929.0
+    },
+    {
+        "Country Name": "Kazakhstan",
+        "Country Code": "KAZ",
+        "Year": 2008,
+        "Value": 134968901021.0
+    },
+    {
+        "Country Name": "Kazakhstan",
+        "Country Code": "KAZ",
+        "Year": 2009,
+        "Value": 136588527833.0
+    },
+    {
+        "Country Name": "Kazakhstan",
+        "Country Code": "KAZ",
+        "Year": 2010,
+        "Value": 146559490369.0
+    },
+    {
+        "Country Name": "Kenya",
+        "Country Code": "KEN",
+        "Year": 2008,
+        "Value": 49939962360.0
+    },
+    {
+        "Country Name": "Kenya",
+        "Country Code": "KEN",
+        "Year": 2009,
+        "Value": 51591446859.0
+    },
+    {
+        "Country Name": "Kenya",
+        "Country Code": "KEN",
+        "Year": 2010,
+        "Value": 55748929986.0
+    },
+    {
+        "Country Name": "Kiribati",
+        "Country Code": "KIR",
+        "Year": 2008,
+        "Value": 141933271.0
+    },
+    {
+        "Country Name": "Kiribati",
+        "Country Code": "KIR",
+        "Year": 2009,
+        "Value": 142695170.0
+    },
+    {
+        "Country Name": "Kiribati",
+        "Country Code": "KIR",
+        "Year": 2010,
+        "Value": 144444545.0
+    },
+    {
+        "Country Name": "Kosovo",
+        "Country Code": "XKX",
+        "Year": 2008,
+        "Value": 4580658930.0
+    },
+    {
+        "Country Name": "Kosovo",
+        "Country Code": "XKX",
+        "Year": 2009,
+        "Value": 4811288426.0
+    },
+    {
+        "Country Name": "Kosovo",
+        "Country Code": "XKX",
+        "Year": 2010,
+        "Value": 5048963715.0
+    },
+    {
+        "Country Name": "Kuwait",
+        "Country Code": "KWT",
+        "Year": 2008,
+        "Value": 105665789636.0
+    },
+    {
+        "Country Name": "Kuwait",
+        "Country Code": "KWT",
+        "Year": 2009,
+        "Value": 98188818733.0
+    },
+    {
+        "Country Name": "Kuwait",
+        "Country Code": "KWT",
+        "Year": 2010,
+        "Value": 95861205611.0
+    },
+    {
+        "Country Name": "Kyrgyzstan",
+        "Country Code": "KGZ",
+        "Year": 2008,
+        "Value": 5140072739.0
+    },
+    {
+        "Country Name": "Kyrgyzstan",
+        "Country Code": "KGZ",
+        "Year": 2009,
+        "Value": 5288430380.0
+    },
+    {
+        "Country Name": "Kyrgyzstan",
+        "Country Code": "KGZ",
+        "Year": 2010,
+        "Value": 5263491909.0
+    },
+    {
+        "Country Name": "Laos",
+        "Country Code": "LAO",
+        "Year": 2008,
+        "Value": 8496261313.0
+    },
+    {
+        "Country Name": "Laos",
+        "Country Code": "LAO",
+        "Year": 2009,
+        "Value": 9133631713.0
+    },
+    {
+        "Country Name": "Laos",
+        "Country Code": "LAO",
+        "Year": 2010,
+        "Value": 9912447859.0
+    },
+    {
+        "Country Name": "Latvia",
+        "Country Code": "LVA",
+        "Year": 2008,
+        "Value": 27231101091.0
+    },
+    {
+        "Country Name": "Latvia",
+        "Country Code": "LVA",
+        "Year": 2009,
+        "Value": 22863227157.0
+    },
+    {
+        "Country Name": "Latvia",
+        "Country Code": "LVA",
+        "Year": 2010,
+        "Value": 22026145287.0
+    },
+    {
+        "Country Name": "Lebanon",
+        "Country Code": "LBN",
+        "Year": 2008,
+        "Value": 37931620043.0
+    },
+    {
+        "Country Name": "Lebanon",
+        "Country Code": "LBN",
+        "Year": 2009,
+        "Value": 41812842419.0
+    },
+    {
+        "Country Name": "Lebanon",
+        "Country Code": "LBN",
+        "Year": 2010,
+        "Value": 45147473283.0
+    },
+    {
+        "Country Name": "Lesotho",
+        "Country Code": "LSO",
+        "Year": 2008,
+        "Value": 1911244554.0
+    },
+    {
+        "Country Name": "Lesotho",
+        "Country Code": "LSO",
+        "Year": 2009,
+        "Value": 1887282177.0
+    },
+    {
+        "Country Name": "Lesotho",
+        "Country Code": "LSO",
+        "Year": 2010,
+        "Value": 1986735734.0
+    },
+    {
+        "Country Name": "Liberia",
+        "Country Code": "LBR",
+        "Year": 2008,
+        "Value": 2258921103.0
+    },
+    {
+        "Country Name": "Liberia",
+        "Country Code": "LBR",
+        "Year": 2009,
+        "Value": 2378656131.0
+    },
+    {
+        "Country Name": "Liberia",
+        "Country Code": "LBR",
+        "Year": 2010,
+        "Value": 2523749998.0
+    },
+    {
+        "Country Name": "Libya",
+        "Country Code": "LBY",
+        "Year": 2008,
+        "Value": 83573471186.0
+    },
+    {
+        "Country Name": "Libya",
+        "Country Code": "LBY",
+        "Year": 2009,
+        "Value": 79896086548.0
+    },
+    {
+        "Country Name": "Libya",
+        "Country Code": "LBY",
+        "Year": 2010,
+        "Value": 83912660700.0
+    },
+    {
+        "Country Name": "Lithuania",
+        "Country Code": "LTU",
+        "Year": 2008,
+        "Value": 39416661070.0
+    },
+    {
+        "Country Name": "Lithuania",
+        "Country Code": "LTU",
+        "Year": 2009,
+        "Value": 33567775753.0
+    },
+    {
+        "Country Name": "Lithuania",
+        "Country Code": "LTU",
+        "Year": 2010,
+        "Value": 33711177146.0
+    },
+    {
+        "Country Name": "Luxembourg",
+        "Country Code": "LUX",
+        "Year": 2008,
+        "Value": 53798731288.0
+    },
+    {
+        "Country Name": "Luxembourg",
+        "Country Code": "LUX",
+        "Year": 2009,
+        "Value": 52056215834.0
+    },
+    {
+        "Country Name": "Luxembourg",
+        "Country Code": "LUX",
+        "Year": 2010,
+        "Value": 54013740787.0
+    },
+    {
+        "Country Name": "Madagascar",
+        "Country Code": "MDG",
+        "Year": 2008,
+        "Value": 10272850829.0
+    },
+    {
+        "Country Name": "Madagascar",
+        "Country Code": "MDG",
+        "Year": 2009,
+        "Value": 9864124029.0
+    },
+    {
+        "Country Name": "Madagascar",
+        "Country Code": "MDG",
+        "Year": 2010,
+        "Value": 9925206605.0
+    },
+    {
+        "Country Name": "Malawi",
+        "Country Code": "MWI",
+        "Year": 2008,
+        "Value": 6506741521.0
+    },
+    {
+        "Country Name": "Malawi",
+        "Country Code": "MWI",
+        "Year": 2009,
+        "Value": 7048630103.0
+    },
+    {
+        "Country Name": "Malawi",
+        "Country Code": "MWI",
+        "Year": 2010,
+        "Value": 7533157578.0
+    },
+    {
+        "Country Name": "Malaysia",
+        "Country Code": "MYS",
+        "Year": 2008,
+        "Value": 219902039818.0
+    },
+    {
+        "Country Name": "Malaysia",
+        "Country Code": "MYS",
+        "Year": 2009,
+        "Value": 216573759299.0
+    },
+    {
+        "Country Name": "Malaysia",
+        "Country Code": "MYS",
+        "Year": 2010,
+        "Value": 232654030399.0
+    },
+    {
+        "Country Name": "Maldives",
+        "Country Code": "MDV",
+        "Year": 2008,
+        "Value": 3158820509.0
+    },
+    {
+        "Country Name": "Maldives",
+        "Country Code": "MDV",
+        "Year": 2009,
+        "Value": 2895352810.0
+    },
+    {
+        "Country Name": "Maldives",
+        "Country Code": "MDV",
+        "Year": 2010,
+        "Value": 3091816044.0
+    },
+    {
+        "Country Name": "Mali",
+        "Country Code": "MLI",
+        "Year": 2008,
+        "Value": 11760733949.0
+    },
+    {
+        "Country Name": "Mali",
+        "Country Code": "MLI",
+        "Year": 2009,
+        "Value": 12402250894.0
+    },
+    {
+        "Country Name": "Mali",
+        "Country Code": "MLI",
+        "Year": 2010,
+        "Value": 13093898208.0
+    },
+    {
+        "Country Name": "Malta",
+        "Country Code": "MLT",
+        "Year": 2008,
+        "Value": 8213965209.0
+    },
+    {
+        "Country Name": "Malta",
+        "Country Code": "MLT",
+        "Year": 2009,
+        "Value": 8099359895.0
+    },
+    {
+        "Country Name": "Malta",
+        "Country Code": "MLT",
+        "Year": 2010,
+        "Value": 8601305558.0
+    },
+    {
+        "Country Name": "Marshall Islands",
+        "Country Code": "MHL",
+        "Year": 2008,
+        "Value": 163700000.0
+    },
+    {
+        "Country Name": "Marshall Islands",
+        "Country Code": "MHL",
+        "Year": 2009,
+        "Value": 169700000.0
+    },
+    {
+        "Country Name": "Marshall Islands",
+        "Country Code": "MHL",
+        "Year": 2010,
+        "Value": 179100000.0
+    },
+    {
+        "Country Name": "Mauritania",
+        "Country Code": "MRT",
+        "Year": 2008,
+        "Value": 4832382896.0
+    },
+    {
+        "Country Name": "Mauritania",
+        "Country Code": "MRT",
+        "Year": 2009,
+        "Value": 4837112633.0
+    },
+    {
+        "Country Name": "Mauritania",
+        "Country Code": "MRT",
+        "Year": 2010,
+        "Value": 4963856086.0
+    },
+    {
+        "Country Name": "Mauritius",
+        "Country Code": "MUS",
+        "Year": 2008,
+        "Value": 9387088070.0
+    },
+    {
+        "Country Name": "Mauritius",
+        "Country Code": "MUS",
+        "Year": 2009,
+        "Value": 9702824740.0
+    },
+    {
+        "Country Name": "Mauritius",
+        "Country Code": "MUS",
+        "Year": 2010,
+        "Value": 10129431413.0
+    },
+    {
+        "Country Name": "Mexico",
+        "Country Code": "MEX",
+        "Year": 2008,
+        "Value": 1084575522256.0
+    },
+    {
+        "Country Name": "Mexico",
+        "Country Code": "MEX",
+        "Year": 2009,
+        "Value": 1016298775542.0
+    },
+    {
+        "Country Name": "Mexico",
+        "Country Code": "MEX",
+        "Year": 2010,
+        "Value": 1066822388040.0
+    },
+    {
+        "Country Name": "Micronesia (country)",
+        "Country Code": "FSM",
+        "Year": 2008,
+        "Value": 302823529.0
+    },
+    {
+        "Country Name": "Micronesia (country)",
+        "Country Code": "FSM",
+        "Year": 2009,
+        "Value": 306756302.0
+    },
+    {
+        "Country Name": "Micronesia (country)",
+        "Country Code": "FSM",
+        "Year": 2010,
+        "Value": 312000000.0
+    },
+    {
+        "Country Name": "Moldova",
+        "Country Code": "MDA",
+        "Year": 2008,
+        "Value": 6452653478.0
+    },
+    {
+        "Country Name": "Moldova",
+        "Country Code": "MDA",
+        "Year": 2009,
+        "Value": 6065494252.0
+    },
+    {
+        "Country Name": "Moldova",
+        "Country Code": "MDA",
+        "Year": 2010,
+        "Value": 6496144351.0
+    },
+    {
+        "Country Name": "Monaco",
+        "Country Code": "MCO",
+        "Year": 2008,
+        "Value": 5197025654.0
+    },
+    {
+        "Country Name": "Monaco",
+        "Country Code": "MCO",
+        "Year": 2009,
+        "Value": 4607839553.0
+    },
+    {
+        "Country Name": "Monaco",
+        "Country Code": "MCO",
+        "Year": 2010,
+        "Value": 4703001560.0
+    },
+    {
+        "Country Name": "Mongolia",
+        "Country Code": "MNG",
+        "Year": 2008,
+        "Value": 6810770268.0
+    },
+    {
+        "Country Name": "Mongolia",
+        "Country Code": "MNG",
+        "Year": 2009,
+        "Value": 6724368909.0
+    },
+    {
+        "Country Name": "Mongolia",
+        "Country Code": "MNG",
+        "Year": 2010,
+        "Value": 7152385862.0
+    },
+    {
+        "Country Name": "Montenegro",
+        "Country Code": "MNE",
+        "Year": 2008,
+        "Value": 3794163580.0
+    },
+    {
+        "Country Name": "Montenegro",
+        "Country Code": "MNE",
+        "Year": 2009,
+        "Value": 3566724394.0
+    },
+    {
+        "Country Name": "Montenegro",
+        "Country Code": "MNE",
+        "Year": 2010,
+        "Value": 3665722319.0
+    },
+    {
+        "Country Name": "Morocco",
+        "Country Code": "MAR",
+        "Year": 2008,
+        "Value": 84721870674.0
+    },
+    {
+        "Country Name": "Morocco",
+        "Country Code": "MAR",
+        "Year": 2009,
+        "Value": 87895356582.0
+    },
+    {
+        "Country Name": "Morocco",
+        "Country Code": "MAR",
+        "Year": 2010,
+        "Value": 90971304769.0
+    },
+    {
+        "Country Name": "Mozambique",
+        "Country Code": "MOZ",
+        "Year": 2008,
+        "Value": 10057425620.0
+    },
+    {
+        "Country Name": "Mozambique",
+        "Country Code": "MOZ",
+        "Year": 2009,
+        "Value": 10653727556.0
+    },
+    {
+        "Country Name": "Mozambique",
+        "Country Code": "MOZ",
+        "Year": 2010,
+        "Value": 11365367724.0
+    },
+    {
+        "Country Name": "Myanmar",
+        "Country Code": "MMR",
+        "Year": 2008,
+        "Value": 34581048770.0
+    },
+    {
+        "Country Name": "Myanmar",
+        "Country Code": "MMR",
+        "Year": 2009,
+        "Value": 38229352561.0
+    },
+    {
+        "Country Name": "Myanmar",
+        "Country Code": "MMR",
+        "Year": 2010,
+        "Value": 41912536386.0
+    },
+    {
+        "Country Name": "Namibia",
+        "Country Code": "NAM",
+        "Year": 2008,
+        "Value": 8262699735.0
+    },
+    {
+        "Country Name": "Namibia",
+        "Country Code": "NAM",
+        "Year": 2009,
+        "Value": 8287154923.0
+    },
+    {
+        "Country Name": "Namibia",
+        "Country Code": "NAM",
+        "Year": 2010,
+        "Value": 8787636883.0
+    },
+    {
+        "Country Name": "Nauru",
+        "Country Code": "NRU",
+        "Year": 2008,
+        "Value": 50497253.0
+    },
+    {
+        "Country Name": "Nauru",
+        "Country Code": "NRU",
+        "Year": 2009,
+        "Value": 47691850.0
+    },
+    {
+        "Country Name": "Nauru",
+        "Country Code": "NRU",
+        "Year": 2010,
+        "Value": 47691850.0
+    },
+    {
+        "Country Name": "Nepal",
+        "Country Code": "NPL",
+        "Year": 2008,
+        "Value": 17998713599.0
+    },
+    {
+        "Country Name": "Nepal",
+        "Country Code": "NPL",
+        "Year": 2009,
+        "Value": 18814609456.0
+    },
+    {
+        "Country Name": "Nepal",
+        "Country Code": "NPL",
+        "Year": 2010,
+        "Value": 19720799061.0
+    },
+    {
+        "Country Name": "Netherlands",
+        "Country Code": "NLD",
+        "Year": 2008,
+        "Value": 760233696247.0
+    },
+    {
+        "Country Name": "Netherlands",
+        "Country Code": "NLD",
+        "Year": 2009,
+        "Value": 732368991449.0
+    },
+    {
+        "Country Name": "Netherlands",
+        "Country Code": "NLD",
+        "Year": 2010,
+        "Value": 742031522823.0
+    },
+    {
+        "Country Name": "New Zealand",
+        "Country Code": "NZL",
+        "Year": 2008,
+        "Value": 152169544390.0
+    },
+    {
+        "Country Name": "New Zealand",
+        "Country Code": "NZL",
+        "Year": 2009,
+        "Value": 152108281106.0
+    },
+    {
+        "Country Name": "New Zealand",
+        "Country Code": "NZL",
+        "Year": 2010,
+        "Value": 154347048879.0
+    },
+    {
+        "Country Name": "Nicaragua",
+        "Country Code": "NIC",
+        "Year": 2008,
+        "Value": 9684631534.0
+    },
+    {
+        "Country Name": "Nicaragua",
+        "Country Code": "NIC",
+        "Year": 2009,
+        "Value": 9365749046.0
+    },
+    {
+        "Country Name": "Nicaragua",
+        "Country Code": "NIC",
+        "Year": 2010,
+        "Value": 9778787862.0
+    },
+    {
+        "Country Name": "Niger",
+        "Country Code": "NER",
+        "Year": 2008,
+        "Value": 6593265446.0
+    },
+    {
+        "Country Name": "Niger",
+        "Country Code": "NER",
+        "Year": 2009,
+        "Value": 6722664934.0
+    },
+    {
+        "Country Name": "Niger",
+        "Country Code": "NER",
+        "Year": 2010,
+        "Value": 7299346341.0
+    },
+    {
+        "Country Name": "Nigeria",
+        "Country Code": "NGA",
+        "Year": 2008,
+        "Value": 330679000570.0
+    },
+    {
+        "Country Name": "Nigeria",
+        "Country Code": "NGA",
+        "Year": 2009,
+        "Value": 357255424171.0
+    },
+    {
+        "Country Name": "Nigeria",
+        "Country Code": "NGA",
+        "Year": 2010,
+        "Value": 385856064172.0
+    },
+    {
+        "Country Name": "North Macedonia",
+        "Country Code": "MKD",
+        "Year": 2008,
+        "Value": 8659882989.0
+    },
+    {
+        "Country Name": "North Macedonia",
+        "Country Code": "MKD",
+        "Year": 2009,
+        "Value": 8628827362.0
+    },
+    {
+        "Country Name": "North Macedonia",
+        "Country Code": "MKD",
+        "Year": 2010,
+        "Value": 8918648175.0
+    },
+    {
+        "Country Name": "Norway",
+        "Country Code": "NOR",
+        "Year": 2008,
+        "Value": 366565216453.0
+    },
+    {
+        "Country Name": "Norway",
+        "Country Code": "NOR",
+        "Year": 2009,
+        "Value": 360651524216.0
+    },
+    {
+        "Country Name": "Norway",
+        "Country Code": "NOR",
+        "Year": 2010,
+        "Value": 364275829281.0
+    },
+    {
+        "Country Name": "Oman",
+        "Country Code": "OMN",
+        "Year": 2008,
+        "Value": 57803951303.0
+    },
+    {
+        "Country Name": "Oman",
+        "Country Code": "OMN",
+        "Year": 2009,
+        "Value": 61261764565.0
+    },
+    {
+        "Country Name": "Oman",
+        "Country Code": "OMN",
+        "Year": 2010,
+        "Value": 62776154506.0
+    },
+    {
+        "Country Name": "Pakistan",
+        "Country Code": "PAK",
+        "Year": 2008,
+        "Value": 238399717138.0
+    },
+    {
+        "Country Name": "Pakistan",
+        "Country Code": "PAK",
+        "Year": 2009,
+        "Value": 246678267936.0
+    },
+    {
+        "Country Name": "Pakistan",
+        "Country Code": "PAK",
+        "Year": 2010,
+        "Value": 250382678707.0
+    },
+    {
+        "Country Name": "Palau",
+        "Country Code": "PLW",
+        "Year": 2008,
+        "Value": 261544895.0
+    },
+    {
+        "Country Name": "Palau",
+        "Country Code": "PLW",
+        "Year": 2009,
+        "Value": 245341943.0
+    },
+    {
+        "Country Name": "Palau",
+        "Country Code": "PLW",
+        "Year": 2010,
+        "Value": 237916711.0
+    },
+    {
+        "Country Name": "Palestine",
+        "Country Code": "PSE",
+        "Year": 2008,
+        "Value": 9647999999.0
+    },
+    {
+        "Country Name": "Palestine",
+        "Country Code": "PSE",
+        "Year": 2009,
+        "Value": 10477099999.0
+    },
+    {
+        "Country Name": "Palestine",
+        "Country Code": "PSE",
+        "Year": 2010,
+        "Value": 11082399999.0
+    },
+    {
+        "Country Name": "Panama",
+        "Country Code": "PAN",
+        "Year": 2008,
+        "Value": 36015209193.0
+    },
+    {
+        "Country Name": "Panama",
+        "Country Code": "PAN",
+        "Year": 2009,
+        "Value": 36595725406.0
+    },
+    {
+        "Country Name": "Panama",
+        "Country Code": "PAN",
+        "Year": 2010,
+        "Value": 38818327825.0
+    },
+    {
+        "Country Name": "Papua New Guinea",
+        "Country Code": "PNG",
+        "Year": 2008,
+        "Value": 13892155836.0
+    },
+    {
+        "Country Name": "Papua New Guinea",
+        "Country Code": "PNG",
+        "Year": 2009,
+        "Value": 14836880985.0
+    },
+    {
+        "Country Name": "Papua New Guinea",
+        "Country Code": "PNG",
+        "Year": 2010,
+        "Value": 16339627662.0
+    },
+    {
+        "Country Name": "Paraguay",
+        "Country Code": "PRY",
+        "Year": 2008,
+        "Value": 26881515165.0
+    },
+    {
+        "Country Name": "Paraguay",
+        "Country Code": "PRY",
+        "Year": 2009,
+        "Value": 26811317495.0
+    },
+    {
+        "Country Name": "Paraguay",
+        "Country Code": "PRY",
+        "Year": 2010,
+        "Value": 29786095177.0
+    },
+    {
+        "Country Name": "Peru",
+        "Country Code": "PER",
+        "Year": 2008,
+        "Value": 137234696225.0
+    },
+    {
+        "Country Name": "Peru",
+        "Country Code": "PER",
+        "Year": 2009,
+        "Value": 138738546494.0
+    },
+    {
+        "Country Name": "Peru",
+        "Country Code": "PER",
+        "Year": 2010,
+        "Value": 150298879148.0
+    },
+    {
+        "Country Name": "Philippines",
+        "Country Code": "PHL",
+        "Year": 2008,
+        "Value": 209958471374.0
+    },
+    {
+        "Country Name": "Philippines",
+        "Country Code": "PHL",
+        "Year": 2009,
+        "Value": 212999348337.0
+    },
+    {
+        "Country Name": "Philippines",
+        "Country Code": "PHL",
+        "Year": 2010,
+        "Value": 228621785456.0
+    },
+    {
+        "Country Name": "Poland",
+        "Country Code": "POL",
+        "Year": 2008,
+        "Value": 388394800371.0
+    },
+    {
+        "Country Name": "Poland",
+        "Country Code": "POL",
+        "Year": 2009,
+        "Value": 398551823849.0
+    },
+    {
+        "Country Name": "Poland",
+        "Country Code": "POL",
+        "Year": 2010,
+        "Value": 411181642127.0
+    },
+    {
+        "Country Name": "Portugal",
+        "Country Code": "PRT",
+        "Year": 2008,
+        "Value": 211316368904.0
+    },
+    {
+        "Country Name": "Portugal",
+        "Country Code": "PRT",
+        "Year": 2009,
+        "Value": 204718906458.0
+    },
+    {
+        "Country Name": "Portugal",
+        "Country Code": "PRT",
+        "Year": 2010,
+        "Value": 208276152407.0
+    },
+    {
+        "Country Name": "Puerto Rico",
+        "Country Code": "PRI",
+        "Year": 2008,
+        "Value": 108975346085.0
+    },
+    {
+        "Country Name": "Puerto Rico",
+        "Country Code": "PRI",
+        "Year": 2009,
+        "Value": 106847683983.0
+    },
+    {
+        "Country Name": "Puerto Rico",
+        "Country Code": "PRI",
+        "Year": 2010,
+        "Value": 106406131528.0
+    },
+    {
+        "Country Name": "Qatar",
+        "Country Code": "QAT",
+        "Year": 2008,
+        "Value": 91885668301.0
+    },
+    {
+        "Country Name": "Qatar",
+        "Country Code": "QAT",
+        "Year": 2009,
+        "Value": 102872944217.0
+    },
+    {
+        "Country Name": "Qatar",
+        "Country Code": "QAT",
+        "Year": 2010,
+        "Value": 120085188332.0
+    },
+    {
+        "Country Name": "Romania",
+        "Country Code": "ROU",
+        "Year": 2008,
+        "Value": 170834114652.0
+    },
+    {
+        "Country Name": "Romania",
+        "Country Code": "ROU",
+        "Year": 2009,
+        "Value": 161409698529.0
+    },
+    {
+        "Country Name": "Romania",
+        "Country Code": "ROU",
+        "Year": 2010,
+        "Value": 155105339843.0
+    },
+    {
+        "Country Name": "Russia",
+        "Country Code": "RUS",
+        "Year": 2008,
+        "Value": 1298056264713.0
+    },
+    {
+        "Country Name": "Russia",
+        "Country Code": "RUS",
+        "Year": 2009,
+        "Value": 1196807955081.0
+    },
+    {
+        "Country Name": "Russia",
+        "Country Code": "RUS",
+        "Year": 2010,
+        "Value": 1250664313051.0
+    },
+    {
+        "Country Name": "Rwanda",
+        "Country Code": "RWA",
+        "Year": 2008,
+        "Value": 5242129868.0
+    },
+    {
+        "Country Name": "Rwanda",
+        "Country Code": "RWA",
+        "Year": 2009,
+        "Value": 5569671641.0
+    },
+    {
+        "Country Name": "Rwanda",
+        "Country Code": "RWA",
+        "Year": 2010,
+        "Value": 5978187921.0
+    },
+    {
+        "Country Name": "Saint Kitts and Nevis",
+        "Country Code": "KNA",
+        "Year": 2008,
+        "Value": 858287028.0
+    },
+    {
+        "Country Name": "Saint Kitts and Nevis",
+        "Country Code": "KNA",
+        "Year": 2009,
+        "Value": 829064585.0
+    },
+    {
+        "Country Name": "Saint Kitts and Nevis",
+        "Country Code": "KNA",
+        "Year": 2010,
+        "Value": 828615280.0
+    },
+    {
+        "Country Name": "Saint Lucia",
+        "Country Code": "LCA",
+        "Year": 2008,
+        "Value": 1786567823.0
+    },
+    {
+        "Country Name": "Saint Lucia",
+        "Country Code": "LCA",
+        "Year": 2009,
+        "Value": 1736027614.0
+    },
+    {
+        "Country Name": "Saint Lucia",
+        "Country Code": "LCA",
+        "Year": 2010,
+        "Value": 1741756827.0
+    },
+    {
+        "Country Name": "Saint Vincent and the Grenadines",
+        "Country Code": "VCT",
+        "Year": 2008,
+        "Value": 779416014.0
+    },
+    {
+        "Country Name": "Saint Vincent and the Grenadines",
+        "Country Code": "VCT",
+        "Year": 2009,
+        "Value": 768674152.0
+    },
+    {
+        "Country Name": "Saint Vincent and the Grenadines",
+        "Country Code": "VCT",
+        "Year": 2010,
+        "Value": 734310821.0
+    },
+    {
+        "Country Name": "Samoa",
+        "Country Code": "WSM",
+        "Year": 2008,
+        "Value": 746336191.0
+    },
+    {
+        "Country Name": "Samoa",
+        "Country Code": "WSM",
+        "Year": 2009,
+        "Value": 742293455.0
+    },
+    {
+        "Country Name": "Samoa",
+        "Country Code": "WSM",
+        "Year": 2010,
+        "Value": 787756851.0
+    },
+    {
+        "Country Name": "San Marino",
+        "Country Code": "SMR",
+        "Year": 2008,
+        "Value": 1949515327.0
+    },
+    {
+        "Country Name": "San Marino",
+        "Country Code": "SMR",
+        "Year": 2009,
+        "Value": 1748306696.0
+    },
+    {
+        "Country Name": "San Marino",
+        "Country Code": "SMR",
+        "Year": 2010,
+        "Value": 1652609909.0
+    },
+    {
+        "Country Name": "Sao Tome and Principe",
+        "Country Code": "STP",
+        "Year": 2008,
+        "Value": 211009232.0
+    },
+    {
+        "Country Name": "Sao Tome and Principe",
+        "Country Code": "STP",
+        "Year": 2009,
+        "Value": 217977600.0
+    },
+    {
+        "Country Name": "Sao Tome and Principe",
+        "Country Code": "STP",
+        "Year": 2010,
+        "Value": 221134908.0
+    },
+    {
+        "Country Name": "Saudi Arabia",
+        "Country Code": "SAU",
+        "Year": 2008,
+        "Value": 503713066804.0
+    },
+    {
+        "Country Name": "Saudi Arabia",
+        "Country Code": "SAU",
+        "Year": 2009,
+        "Value": 498339873323.0
+    },
+    {
+        "Country Name": "Saudi Arabia",
+        "Country Code": "SAU",
+        "Year": 2010,
+        "Value": 523453786400.0
+    },
+    {
+        "Country Name": "Senegal",
+        "Country Code": "SEN",
+        "Year": 2008,
+        "Value": 13719774159.0
+    },
+    {
+        "Country Name": "Senegal",
+        "Country Code": "SEN",
+        "Year": 2009,
+        "Value": 14097356679.0
+    },
+    {
+        "Country Name": "Senegal",
+        "Country Code": "SEN",
+        "Year": 2010,
+        "Value": 14575382431.0
+    },
+    {
+        "Country Name": "Serbia",
+        "Country Code": "SRB",
+        "Year": 2008,
+        "Value": 42160489173.0
+    },
+    {
+        "Country Name": "Serbia",
+        "Country Code": "SRB",
+        "Year": 2009,
+        "Value": 40835549106.0
+    },
+    {
+        "Country Name": "Serbia",
+        "Country Code": "SRB",
+        "Year": 2010,
+        "Value": 41493398701.0
+    },
+    {
+        "Country Name": "Seychelles",
+        "Country Code": "SYC",
+        "Year": 2008,
+        "Value": 1084627594.0
+    },
+    {
+        "Country Name": "Seychelles",
+        "Country Code": "SYC",
+        "Year": 2009,
+        "Value": 1057735598.0
+    },
+    {
+        "Country Name": "Seychelles",
+        "Country Code": "SYC",
+        "Year": 2010,
+        "Value": 1105387984.0
+    },
+    {
+        "Country Name": "Sierra Leone",
+        "Country Code": "SLE",
+        "Year": 2008,
+        "Value": 5202336667.0
+    },
+    {
+        "Country Name": "Sierra Leone",
+        "Country Code": "SLE",
+        "Year": 2009,
+        "Value": 5281974205.0
+    },
+    {
+        "Country Name": "Sierra Leone",
+        "Country Code": "SLE",
+        "Year": 2010,
+        "Value": 5617678842.0
+    },
+    {
+        "Country Name": "Singapore",
+        "Country Code": "SGP",
+        "Year": 2008,
+        "Value": 215844707508.0
+    },
+    {
+        "Country Name": "Singapore",
+        "Country Code": "SGP",
+        "Year": 2009,
+        "Value": 216120888113.0
+    },
+    {
+        "Country Name": "Singapore",
+        "Country Code": "SGP",
+        "Year": 2010,
+        "Value": 247501100140.0
+    },
+    {
+        "Country Name": "Slovakia",
+        "Country Code": "SVK",
+        "Year": 2008,
+        "Value": 77983340266.0
+    },
+    {
+        "Country Name": "Slovakia",
+        "Country Code": "SVK",
+        "Year": 2009,
+        "Value": 73690093871.0
+    },
+    {
+        "Country Name": "Slovakia",
+        "Country Code": "SVK",
+        "Year": 2010,
+        "Value": 78694079820.0
+    },
+    {
+        "Country Name": "Slovenia",
+        "Country Code": "SVN",
+        "Year": 2008,
+        "Value": 44823161262.0
+    },
+    {
+        "Country Name": "Slovenia",
+        "Country Code": "SVN",
+        "Year": 2009,
+        "Value": 41420820595.0
+    },
+    {
+        "Country Name": "Slovenia",
+        "Country Code": "SVN",
+        "Year": 2010,
+        "Value": 41881476947.0
+    },
+    {
+        "Country Name": "Solomon Islands",
+        "Country Code": "SLB",
+        "Year": 2008,
+        "Value": 972394202.0
+    },
+    {
+        "Country Name": "Solomon Islands",
+        "Country Code": "SLB",
+        "Year": 2009,
+        "Value": 1000251965.0
+    },
+    {
+        "Country Name": "Solomon Islands",
+        "Country Code": "SLB",
+        "Year": 2010,
+        "Value": 1097358149.0
+    },
+    {
+        "Country Name": "Somalia",
+        "Country Code": "SOM",
+        "Year": 2008,
+        "Value": 3554225115.0
+    },
+    {
+        "Country Name": "Somalia",
+        "Country Code": "SOM",
+        "Year": 2009,
+        "Value": 3792157453.0
+    },
+    {
+        "Country Name": "Somalia",
+        "Country Code": "SOM",
+        "Year": 2010,
+        "Value": 4046017818.0
+    },
+    {
+        "Country Name": "South Africa",
+        "Country Code": "ZAF",
+        "Year": 2008,
+        "Value": 307184409060.0
+    },
+    {
+        "Country Name": "South Africa",
+        "Country Code": "ZAF",
+        "Year": 2009,
+        "Value": 302459639039.0
+    },
+    {
+        "Country Name": "South Africa",
+        "Country Code": "ZAF",
+        "Year": 2010,
+        "Value": 311653604140.0
+    },
+    {
+        "Country Name": "South Korea",
+        "Country Code": "KOR",
+        "Year": 2008,
+        "Value": 1223156560996.0
+    },
+    {
+        "Country Name": "South Korea",
+        "Country Code": "KOR",
+        "Year": 2009,
+        "Value": 1233184753860.0
+    },
+    {
+        "Country Name": "South Korea",
+        "Country Code": "KOR",
+        "Year": 2010,
+        "Value": 1319281537670.0
+    },
+    {
+        "Country Name": "South Sudan",
+        "Country Code": "SSD",
+        "Year": 2008,
+        "Value": 20185217785.0
+    },
+    {
+        "Country Name": "South Sudan",
+        "Country Code": "SSD",
+        "Year": 2009,
+        "Value": 21202884179.0
+    },
+    {
+        "Country Name": "South Sudan",
+        "Country Code": "SSD",
+        "Year": 2010,
+        "Value": 22367646895.0
+    },
+    {
+        "Country Name": "Spain",
+        "Country Code": "ESP",
+        "Year": 2008,
+        "Value": 1245931907237.0
+    },
+    {
+        "Country Name": "Spain",
+        "Country Code": "ESP",
+        "Year": 2009,
+        "Value": 1198983535018.0
+    },
+    {
+        "Country Name": "Spain",
+        "Country Code": "ESP",
+        "Year": 2010,
+        "Value": 1200112046037.0
+    },
+    {
+        "Country Name": "Sri Lanka",
+        "Country Code": "LKA",
+        "Year": 2008,
+        "Value": 55876443144.0
+    },
+    {
+        "Country Name": "Sri Lanka",
+        "Country Code": "LKA",
+        "Year": 2009,
+        "Value": 57853861326.0
+    },
+    {
+        "Country Name": "Sri Lanka",
+        "Country Code": "LKA",
+        "Year": 2010,
+        "Value": 62491407972.0
+    },
+    {
+        "Country Name": "Sudan",
+        "Country Code": "SDN",
+        "Year": 2008,
+        "Value": 58638439292.0
+    },
+    {
+        "Country Name": "Sudan",
+        "Country Code": "SDN",
+        "Year": 2009,
+        "Value": 57015500648.0
+    },
+    {
+        "Country Name": "Sudan",
+        "Country Code": "SDN",
+        "Year": 2010,
+        "Value": 59215296613.0
+    },
+    {
+        "Country Name": "Suriname",
+        "Country Code": "SUR",
+        "Year": 2008,
+        "Value": 4367326198.0
+    },
+    {
+        "Country Name": "Suriname",
+        "Country Code": "SUR",
+        "Year": 2009,
+        "Value": 4498944263.0
+    },
+    {
+        "Country Name": "Suriname",
+        "Country Code": "SUR",
+        "Year": 2010,
+        "Value": 4731486826.0
+    },
+    {
+        "Country Name": "Sweden",
+        "Country Code": "SWE",
+        "Year": 2008,
+        "Value": 446494653686.0
+    },
+    {
+        "Country Name": "Sweden",
+        "Country Code": "SWE",
+        "Year": 2009,
+        "Value": 427493565399.0
+    },
+    {
+        "Country Name": "Sweden",
+        "Country Code": "SWE",
+        "Year": 2010,
+        "Value": 452077714777.0
+    },
+    {
+        "Country Name": "Switzerland",
+        "Country Code": "CHE",
+        "Year": 2008,
+        "Value": 641905809443.0
+    },
+    {
+        "Country Name": "Switzerland",
+        "Country Code": "CHE",
+        "Year": 2009,
+        "Value": 629485513283.0
+    },
+    {
+        "Country Name": "Switzerland",
+        "Country Code": "CHE",
+        "Year": 2010,
+        "Value": 650010711944.0
+    },
+    {
+        "Country Name": "Syria",
+        "Country Code": "SYR",
+        "Year": 2008,
+        "Value": 30801684271.0
+    },
+    {
+        "Country Name": "Syria",
+        "Country Code": "SYR",
+        "Year": 2009,
+        "Value": 32622770589.0
+    },
+    {
+        "Country Name": "Syria",
+        "Country Code": "SYR",
+        "Year": 2010,
+        "Value": 34316384709.0
+    },
+    {
+        "Country Name": "Tajikistan",
+        "Country Code": "TJK",
+        "Year": 2008,
+        "Value": 5329041788.0
+    },
+    {
+        "Country Name": "Tajikistan",
+        "Country Code": "TJK",
+        "Year": 2009,
+        "Value": 5536874479.0
+    },
+    {
+        "Country Name": "Tajikistan",
+        "Country Code": "TJK",
+        "Year": 2010,
+        "Value": 5896771269.0
+    },
+    {
+        "Country Name": "Tanzania",
+        "Country Code": "TZA",
+        "Year": 2008,
+        "Value": 31113277454.0
+    },
+    {
+        "Country Name": "Tanzania",
+        "Country Code": "TZA",
+        "Year": 2009,
+        "Value": 32752668789.0
+    },
+    {
+        "Country Name": "Tanzania",
+        "Country Code": "TZA",
+        "Year": 2010,
+        "Value": 34828049320.0
+    },
+    {
+        "Country Name": "Thailand",
+        "Country Code": "THA",
+        "Year": 2008,
+        "Value": 324964940636.0
+    },
+    {
+        "Country Name": "Thailand",
+        "Country Code": "THA",
+        "Year": 2009,
+        "Value": 322720673508.0
+    },
+    {
+        "Country Name": "Thailand",
+        "Country Code": "THA",
+        "Year": 2010,
+        "Value": 346967938038.0
+    },
+    {
+        "Country Name": "Togo",
+        "Country Code": "TGO",
+        "Year": 2008,
+        "Value": 3887557323.0
+    },
+    {
+        "Country Name": "Togo",
+        "Country Code": "TGO",
+        "Year": 2009,
+        "Value": 4099577351.0
+    },
+    {
+        "Country Name": "Togo",
+        "Country Code": "TGO",
+        "Year": 2010,
+        "Value": 4339580301.0
+    },
+    {
+        "Country Name": "Tonga",
+        "Country Code": "TON",
+        "Year": 2008,
+        "Value": 410272052.0
+    },
+    {
+        "Country Name": "Tonga",
+        "Country Code": "TON",
+        "Year": 2009,
+        "Value": 389228468.0
+    },
+    {
+        "Country Name": "Tonga",
+        "Country Code": "TON",
+        "Year": 2010,
+        "Value": 392437255.0
+    },
+    {
+        "Country Name": "Trinidad and Tobago",
+        "Country Code": "TTO",
+        "Year": 2008,
+        "Value": 23927871251.0
+    },
+    {
+        "Country Name": "Trinidad and Tobago",
+        "Country Code": "TTO",
+        "Year": 2009,
+        "Value": 22877023931.0
+    },
+    {
+        "Country Name": "Trinidad and Tobago",
+        "Country Code": "TTO",
+        "Year": 2010,
+        "Value": 23637278843.0
+    },
+    {
+        "Country Name": "Tunisia",
+        "Country Code": "TUN",
+        "Year": 2008,
+        "Value": 39641554633.0
+    },
+    {
+        "Country Name": "Tunisia",
+        "Country Code": "TUN",
+        "Year": 2009,
+        "Value": 40848025576.0
+    },
+    {
+        "Country Name": "Tunisia",
+        "Country Code": "TUN",
+        "Year": 2010,
+        "Value": 42061674642.0
+    },
+    {
+        "Country Name": "Turkey",
+        "Country Code": "TUR",
+        "Year": 2008,
+        "Value": 600240295872.0
+    },
+    {
+        "Country Name": "Turkey",
+        "Country Code": "TUR",
+        "Year": 2009,
+        "Value": 570932398858.0
+    },
+    {
+        "Country Name": "Turkey",
+        "Country Code": "TUR",
+        "Year": 2010,
+        "Value": 619702577582.0
+    },
+    {
+        "Country Name": "Turkmenistan",
+        "Country Code": "TKM",
+        "Year": 2008,
+        "Value": 18742368438.0
+    },
+    {
+        "Country Name": "Turkmenistan",
+        "Country Code": "TKM",
+        "Year": 2009,
+        "Value": 19885652916.0
+    },
+    {
+        "Country Name": "Turkmenistan",
+        "Country Code": "TKM",
+        "Year": 2010,
+        "Value": 21715132999.0
+    },
+    {
+        "Country Name": "Tuvalu",
+        "Country Code": "TUV",
+        "Year": 2008,
+        "Value": 33116182.0
+    },
+    {
+        "Country Name": "Tuvalu",
+        "Country Code": "TUV",
+        "Year": 2009,
+        "Value": 31255078.0
+    },
+    {
+        "Country Name": "Tuvalu",
+        "Country Code": "TUV",
+        "Year": 2010,
+        "Value": 30483621.0
+    },
+    {
+        "Country Name": "Uganda",
+        "Country Code": "UGA",
+        "Year": 2008,
+        "Value": 22066817213.0
+    },
+    {
+        "Country Name": "Uganda",
+        "Country Code": "UGA",
+        "Year": 2009,
+        "Value": 23567695614.0
+    },
+    {
+        "Country Name": "Uganda",
+        "Country Code": "UGA",
+        "Year": 2010,
+        "Value": 24896350765.0
+    },
+    {
+        "Country Name": "Ukraine",
+        "Country Code": "UKR",
+        "Year": 2008,
+        "Value": 120217318405.0
+    },
+    {
+        "Country Name": "Ukraine",
+        "Country Code": "UKR",
+        "Year": 2009,
+        "Value": 102020662582.0
+    },
+    {
+        "Country Name": "Ukraine",
+        "Country Code": "UKR",
+        "Year": 2010,
+        "Value": 106195352549.0
+    },
+    {
+        "Country Name": "United Arab Emirates",
+        "Country Code": "ARE",
+        "Year": 2008,
+        "Value": 302040639158.0
+    },
+    {
+        "Country Name": "United Arab Emirates",
+        "Country Code": "ARE",
+        "Year": 2009,
+        "Value": 286204884318.0
+    },
+    {
+        "Country Name": "United Arab Emirates",
+        "Country Code": "ARE",
+        "Year": 2010,
+        "Value": 290792319431.0
+    },
+    {
+        "Country Name": "United Kingdom",
+        "Country Code": "GBR",
+        "Year": 2008,
+        "Value": 2750923500693.0
+    },
+    {
+        "Country Name": "United Kingdom",
+        "Country Code": "GBR",
+        "Year": 2009,
+        "Value": 2624727410659.0
+    },
+    {
+        "Country Name": "United Kingdom",
+        "Country Code": "GBR",
+        "Year": 2010,
+        "Value": 2684060544650.0
+    },
+    {
+        "Country Name": "United States",
+        "Country Code": "USA",
+        "Year": 2008,
+        "Value": 16331051067547.0
+    },
+    {
+        "Country Name": "United States",
+        "Country Code": "USA",
+        "Year": 2009,
+        "Value": 15910281498142.0
+    },
+    {
+        "Country Name": "United States",
+        "Country Code": "USA",
+        "Year": 2010,
+        "Value": 16339094225608.0
+    },
+    {
+        "Country Name": "Uruguay",
+        "Country Code": "URY",
+        "Year": 2008,
+        "Value": 43475921755.0
+    },
+    {
+        "Country Name": "Uruguay",
+        "Country Code": "URY",
+        "Year": 2009,
+        "Value": 45320819970.0
+    },
+    {
+        "Country Name": "Uruguay",
+        "Country Code": "URY",
+        "Year": 2010,
+        "Value": 48857389210.0
+    },
+    {
+        "Country Name": "Uzbekistan",
+        "Country Code": "UZB",
+        "Year": 2008,
+        "Value": 57612058529.0
+    },
+    {
+        "Country Name": "Uzbekistan",
+        "Country Code": "UZB",
+        "Year": 2009,
+        "Value": 62250366950.0
+    },
+    {
+        "Country Name": "Uzbekistan",
+        "Country Code": "UZB",
+        "Year": 2010,
+        "Value": 66979631884.0
+    },
+    {
+        "Country Name": "Vanuatu",
+        "Country Code": "VUT",
+        "Year": 2008,
+        "Value": 734003168.0
+    },
+    {
+        "Country Name": "Vanuatu",
+        "Country Code": "VUT",
+        "Year": 2009,
+        "Value": 756297072.0
+    },
+    {
+        "Country Name": "Vanuatu",
+        "Country Code": "VUT",
+        "Year": 2010,
+        "Value": 765817848.0
+    },
+    {
+        "Country Name": "Venezuela",
+        "Country Code": "VEN",
+        "Year": 2008,
+        "Value": 130608228136.0
+    },
+    {
+        "Country Name": "Venezuela",
+        "Country Code": "VEN",
+        "Year": 2009,
+        "Value": 126589513424.0
+    },
+    {
+        "Country Name": "Venezuela",
+        "Country Code": "VEN",
+        "Year": 2010,
+        "Value": 124580156068.0
+    },
+    {
+        "Country Name": "Vietnam",
+        "Country Code": "VNM",
+        "Year": 2008,
+        "Value": 158086705343.0
+    },
+    {
+        "Country Name": "Vietnam",
+        "Country Code": "VNM",
+        "Year": 2009,
+        "Value": 166620063722.0
+    },
+    {
+        "Country Name": "Vietnam",
+        "Country Code": "VNM",
+        "Year": 2010,
+        "Value": 177322478338.0
+    },
+    {
+        "Country Name": "Yemen",
+        "Country Code": "YEM",
+        "Year": 2008,
+        "Value": 56352323545.0
+    },
+    {
+        "Country Name": "Yemen",
+        "Country Code": "YEM",
+        "Year": 2009,
+        "Value": 58531033711.0
+    },
+    {
+        "Country Name": "Yemen",
+        "Country Code": "YEM",
+        "Year": 2010,
+        "Value": 63038676060.0
+    },
+    {
+        "Country Name": "Zambia",
+        "Country Code": "ZMB",
+        "Year": 2008,
+        "Value": 13719086269.0
+    },
+    {
+        "Country Name": "Zambia",
+        "Country Code": "ZMB",
+        "Year": 2009,
+        "Value": 14984033821.0
+    },
+    {
+        "Country Name": "Zambia",
+        "Country Code": "ZMB",
+        "Year": 2010,
+        "Value": 16527123087.0
+    },
+    {
+        "Country Name": "Zimbabwe",
+        "Country Code": "ZWE",
+        "Year": 2008,
+        "Value": 10406779091.0
+    },
+    {
+        "Country Name": "Zimbabwe",
+        "Country Code": "ZWE",
+        "Year": 2009,
+        "Value": 11787972496.0
+    },
+    {
+        "Country Name": "Zimbabwe",
+        "Country Code": "ZWE",
+        "Year": 2010,
+        "Value": 14107304144.0
+    }
+]
